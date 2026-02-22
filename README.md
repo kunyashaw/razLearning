@@ -67,16 +67,76 @@ src/
 
 ## 资源目录
 
+> ⚠️ **免责声明**：本项目不提供绘本资源，会员绘本需自行购买。支持正版，建议通过闲鱼等平台购买 RAZ 电子版资源。
+
 将绘本资源放在 `myBooks/` 目录下：
+
+### 目录结构
 
 ```
 myBooks/
-├── raz/           # RAZ 绘本 (按级别 aa, a, b...)
-│   └── pdf/
-├── oxford/       # 牛津树绘本 (按级别 L1, L2...)
-│   └── pdf/
-└── cover/        # 封面图片
+├── raz/                    # RAZ 绘本
+│   ├── aa/                 # 最低级别
+│   │   ├── pdf/
+│   │   │   └── 01_BookName.pdf
+│   │   ├── audio/
+│   │   │   └── 01_BookName.mp3
+│   │   ├── video/
+│   │   │   └── 01_BookName.mp4
+│   │   └── cover/
+│   │       └── 01_BookName.jpg
+│   ├── a/                  # 级别 a
+│   ├── b/                  # 级别 b
+│   └── ...                 # 继续到 z, Z
+├── oxford/                # 牛津树绘本
+│   ├── L1/                 # Level 1
+│   │   ├── pdf/
+│   │   │   └── 01_BookName.pdf
+│   │   ├── audio/
+│   │   ├── video/
+│   │   │   ├── earTraining/    # 磨耳朵视频
+│   │   │   └── bilingual/     # 双语讲解视频
+│   │   └── cover/
+│   └── L2/                 # Level 2
+│       └── ...
+└── cover/                  # 通用封面目录
 ```
+
+### 文件命名规范
+
+| 类型 | 格式 | 示例 |
+|------|------|------|
+| PDF 文件 | `{序号}_{书名}.pdf` | `01_The Zoo.pdf` |
+| 音频文件 | `{序号}_{书名}.mp3` | `01_The Zoo.mp3` |
+| 视频文件 | `{序号}_{书名}.mp4` | `01_The Zoo.mp4` |
+| 封面图片 | `{序号}_{书名}.jpg` | `01_The Zoo.jpg` |
+
+### 命名规则
+
+- **序号**：2 位数字，从 `01` 开始
+- **书名**：首字母大写，单词间用空格
+- **序号与书名之间用下划线 `_` 分隔**
+
+### 数据文件
+
+还需要在项目根目录放置 `books.json`（RAZ）或 `classified_oxford_books.json`（牛津树）：
+
+```json
+{
+  "name": "01_Vegetables",
+  "type": "raz",
+  "level": "A",
+  "relativePath": "raz\\a\\pdf\\01_Vegetables.pdf"
+}
+```
+
+### 获取资源
+
+- **闲鱼**：搜索 "RAZ 电子书" 或 "RAZ Plus"
+- **淘宝**：RAZ 分级绘本 PDF 版
+- **自己扫描**：购买纸质书后自行扫描
+
+> 💡 建议购买前先与卖家确认资源格式是否包含 PDF 和音频
 
 ## License
 
