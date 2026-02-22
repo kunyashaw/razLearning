@@ -38,4 +38,7 @@ Thumbs.db
 # Project specific
 myBooks/
 
+# Allow sample books for demo
+!sample-books/
+
 
