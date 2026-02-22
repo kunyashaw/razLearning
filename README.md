@@ -1,10 +1,13 @@
 # RAZ Learning
 
 <p align="center">
-  <video width="640" controls>
-    <source src="https://github.com/kunyashaw/razLearning/raw/master/razLearningDemo.mp4" type="video/mp4">
-    您的浏览器不支持视频播放
-  </video>
+  <a href="https://github.com/kunyashaw/razLearning/raw/master/razLearningDemo.mp4">
+    <img src="images/screenshot1.png" alt="点击播放演示视频" width="80%">
+  </a>
+</p>
+
+<p align="center">
+  <b>👆 点击上方图片播放演示视频</b>
 </p>
 
 <p align="center">
