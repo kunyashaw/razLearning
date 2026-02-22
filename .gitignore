@@ -77,10 +77,18 @@ myBooks/**
 !myBooks/oxford/L1/pdf/01_*.pdf
 !myBooks/oxford/L1/pdf/02_*.pdf
 !myBooks/oxford/L1/pdf/03_*.pdf
+!myBooks/oxford/L1/audio/01_*.mp3
+!myBooks/oxford/L1/audio/02_*.mp3
+!myBooks/oxford/L1/audio/03_*.mp3
+!myBooks/oxford/L1/video/01_*.mp4
+!myBooks/oxford/L1/video/02_*.mp4
+!myBooks/oxford/L1/video/03_*.mp4
 
 !myBooks/oxford/L2/pdf/01_*.pdf
 !myBooks/oxford/L2/pdf/02_*.pdf
 !myBooks/oxford/L2/pdf/03_*.pdf
+!myBooks/oxford/L2/audio/
+!myBooks/oxford/L2/video/
 
 # Demo video
 !razLearningDemo.mp4
