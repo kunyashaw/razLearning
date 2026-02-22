@@ -1,0 +1,5482 @@
+[
+  {
+    "name": "01_Vegetables",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\01_Vegetables.pdf",
+    "relativePath": "raz\\a\\pdf\\01_Vegetables.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "02_I Go",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\02_I Go.pdf",
+    "relativePath": "raz\\a\\pdf\\02_I Go.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "03_Bird Goes Home",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\03_Bird Goes Home.pdf",
+    "relativePath": "raz\\a\\pdf\\03_Bird Goes Home.pdf",
+    "tags": [
+      "动物",
+      "地点"
+    ]
+  },
+  {
+    "name": "04_Fruit",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\04_Fruit.pdf",
+    "relativePath": "raz\\a\\pdf\\04_Fruit.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "05_My Room",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\05_My Room.pdf",
+    "relativePath": "raz\\a\\pdf\\05_My Room.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "06_He Runs",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\06_He Runs.pdf",
+    "relativePath": "raz\\a\\pdf\\06_He Runs.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "07_Baby Animals",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\07_Baby Animals.pdf",
+    "relativePath": "raz\\a\\pdf\\07_Baby Animals.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "08_In And Out",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\08_In And Out.pdf",
+    "relativePath": "raz\\a\\pdf\\08_In And Out.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "09_My Hair",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\09_My Hair.pdf",
+    "relativePath": "raz\\a\\pdf\\09_My Hair.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "10_I Can",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\10_I Can.pdf",
+    "relativePath": "raz\\a\\pdf\\10_I Can.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "11_Going Places",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\11_Going Places.pdf",
+    "relativePath": "raz\\a\\pdf\\11_Going Places.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "12_My Face",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\12_My Face.pdf",
+    "relativePath": "raz\\a\\pdf\\12_My Face.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "13_My Body",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\13_My Body.pdf",
+    "relativePath": "raz\\a\\pdf\\13_My Body.pdf",
+    "tags": [
+      "身体",
+      "科学"
+    ]
+  },
+  {
+    "name": "14_Getting Dressed",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\14_Getting Dressed.pdf",
+    "relativePath": "raz\\a\\pdf\\14_Getting Dressed.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "15_Maria Goes To School",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\15_Maria Goes To School.pdf",
+    "relativePath": "raz\\a\\pdf\\15_Maria Goes To School.pdf",
+    "tags": [
+      "学校",
+      "地点"
+    ]
+  },
+  {
+    "name": "16_Carlos Counts Kittens",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\16_Carlos Counts Kittens.pdf",
+    "relativePath": "raz\\a\\pdf\\16_Carlos Counts Kittens.pdf",
+    "tags": [
+      "数字",
+      "动物",
+      "交通工具"
+    ]
+  },
+  {
+    "name": "17_We Can Make Sounds",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\17_We Can Make Sounds.pdf",
+    "relativePath": "raz\\a\\pdf\\17_We Can Make Sounds.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "18_Hot And Cold",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\18_Hot And Cold.pdf",
+    "relativePath": "raz\\a\\pdf\\18_Hot And Cold.pdf",
+    "tags": [
+      "历史"
+    ]
+  },
+  {
+    "name": "19_My Dog",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\19_My Dog.pdf",
+    "relativePath": "raz\\a\\pdf\\19_My Dog.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "20_What I Like",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\20_What I Like.pdf",
+    "relativePath": "raz\\a\\pdf\\20_What I Like.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "21_Spring Weather",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\21_Spring Weather.pdf",
+    "relativePath": "raz\\a\\pdf\\21_Spring Weather.pdf",
+    "tags": [
+      "天气",
+      "季节",
+      "天气"
+    ]
+  },
+  {
+    "name": "22_Up And Down",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\22_Up And Down.pdf",
+    "relativePath": "raz\\a\\pdf\\22_Up And Down.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "23_Mom And I",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\23_Mom And I.pdf",
+    "relativePath": "raz\\a\\pdf\\23_Mom And I.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "24_Pond Animals",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\24_Pond Animals.pdf",
+    "relativePath": "raz\\a\\pdf\\24_Pond Animals.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "25_Opposites",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\25_Opposites.pdf",
+    "relativePath": "raz\\a\\pdf\\25_Opposites.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "26_All Kinds Of Faces",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\26_All Kinds Of Faces.pdf",
+    "relativePath": "raz\\a\\pdf\\26_All Kinds Of Faces.pdf",
+    "tags": [
+      "身体",
+      "社交"
+    ]
+  },
+  {
+    "name": "27_I Save Money",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\27_I Save Money.pdf",
+    "relativePath": "raz\\a\\pdf\\27_I Save Money.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "28_Carlos Goes To School",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\28_Carlos Goes To School.pdf",
+    "relativePath": "raz\\a\\pdf\\28_Carlos Goes To School.pdf",
+    "tags": [
+      "学校",
+      "交通工具",
+      "地点"
+    ]
+  },
+  {
+    "name": "29_Maria Counts Pumpkins",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\29_Maria Counts Pumpkins.pdf",
+    "relativePath": "raz\\a\\pdf\\29_Maria Counts Pumpkins.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "30_What Lives Here",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\30_What Lives Here.pdf",
+    "relativePath": "raz\\a\\pdf\\30_What Lives Here.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "31_Fruit Colors",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\31_Fruit Colors.pdf",
+    "relativePath": "raz\\a\\pdf\\31_Fruit Colors.pdf",
+    "tags": [
+      "颜色",
+      "食物",
+      "艺术"
+    ]
+  },
+  {
+    "name": "32_The Forest",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\32_The Forest.pdf",
+    "relativePath": "raz\\a\\pdf\\32_The Forest.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "33_Hamster Home",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\33_Hamster Home.pdf",
+    "relativePath": "raz\\a\\pdf\\33_Hamster Home.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "34_This Is My Bear",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\34_This Is My Bear.pdf",
+    "relativePath": "raz\\a\\pdf\\34_This Is My Bear.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "35_I See My Colors",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\35_I See My Colors.pdf",
+    "relativePath": "raz\\a\\pdf\\35_I See My Colors.pdf",
+    "tags": [
+      "颜色",
+      "艺术"
+    ]
+  },
+  {
+    "name": "36_These Shoes",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\36_These Shoes.pdf",
+    "relativePath": "raz\\a\\pdf\\36_These Shoes.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "37_The Big Cat",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\37_The Big Cat.pdf",
+    "relativePath": "raz\\a\\pdf\\37_The Big Cat.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "38_Bedtime Counting",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\38_Bedtime Counting.pdf",
+    "relativePath": "raz\\a\\pdf\\38_Bedtime Counting.pdf",
+    "tags": [
+      "数字",
+      "时间"
+    ]
+  },
+  {
+    "name": "39_I Love Flowers",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\39_I Love Flowers.pdf",
+    "relativePath": "raz\\a\\pdf\\39_I Love Flowers.pdf",
+    "tags": [
+      "自然",
+      "社交"
+    ]
+  },
+  {
+    "name": "40_You Can Dance",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\40_You Can Dance.pdf",
+    "relativePath": "raz\\a\\pdf\\40_You Can Dance.pdf",
+    "tags": [
+      "动作",
+      "音乐"
+    ]
+  },
+  {
+    "name": "41_Fun In The Water",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\41_Fun In The Water.pdf",
+    "relativePath": "raz\\a\\pdf\\41_Fun In The Water.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "42_Hello, Butterfly",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\42_Hello, Butterfly.pdf",
+    "relativePath": "raz\\a\\pdf\\42_Hello, Butterfly.pdf",
+    "tags": [
+      "动作"
+    ]
+  },
+  {
+    "name": "43_A Fish Sees",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\43_A Fish Sees.pdf",
+    "relativePath": "raz\\a\\pdf\\43_A Fish Sees.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "44_This Smells",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\44_This Smells.pdf",
+    "relativePath": "raz\\a\\pdf\\44_This Smells.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "45_I Love Pirates",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\45_I Love Pirates.pdf",
+    "relativePath": "raz\\a\\pdf\\45_I Love Pirates.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "46_Now We Bake",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\46_Now We Bake.pdf",
+    "relativePath": "raz\\a\\pdf\\46_Now We Bake.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "47_The Mall",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\47_The Mall.pdf",
+    "relativePath": "raz\\a\\pdf\\47_The Mall.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "48_Oh,Raccoon",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\48_Oh,Raccoon.pdf",
+    "relativePath": "raz\\a\\pdf\\48_Oh,Raccoon.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "49_I Can Skate",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\49_I Can Skate.pdf",
+    "relativePath": "raz\\a\\pdf\\49_I Can Skate.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "50_Sundae Time",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\50_Sundae Time.pdf",
+    "relativePath": "raz\\a\\pdf\\50_Sundae Time.pdf",
+    "tags": [
+      "天气",
+      "时间",
+      "科学"
+    ]
+  },
+  {
+    "name": "51_My Easter Eggs",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\51_My Easter Eggs.pdf",
+    "relativePath": "raz\\a\\pdf\\51_My Easter Eggs.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "52_Go Fly A Kite",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\52_Go Fly A Kite.pdf",
+    "relativePath": "raz\\a\\pdf\\52_Go Fly A Kite.pdf",
+    "tags": [
+      "动作"
+    ]
+  },
+  {
+    "name": "53_Athletes",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\53_Athletes.pdf",
+    "relativePath": "raz\\a\\pdf\\53_Athletes.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "54_Clean,Not Clean",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\54_Clean,Not Clean.pdf",
+    "relativePath": "raz\\a\\pdf\\54_Clean,Not Clean.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "55_What Do I Hear",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\55_What Do I Hear.pdf",
+    "relativePath": "raz\\a\\pdf\\55_What Do I Hear.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "56_What Makes Me Happy",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\56_What Makes Me Happy.pdf",
+    "relativePath": "raz\\a\\pdf\\56_What Makes Me Happy.pdf",
+    "tags": [
+      "情绪"
+    ]
+  },
+  {
+    "name": "57_My Little Brother",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\57_My Little Brother.pdf",
+    "relativePath": "raz\\a\\pdf\\57_My Little Brother.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "58_Muscles",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\58_Muscles.pdf",
+    "relativePath": "raz\\a\\pdf\\58_Muscles.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "59_This Is My Halloween",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\59_This Is My Halloween.pdf",
+    "relativePath": "raz\\a\\pdf\\59_This Is My Halloween.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "60_Safe,Not Safe",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\60_Safe,Not Safe.pdf",
+    "relativePath": "raz\\a\\pdf\\60_Safe,Not Safe.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "61_Nice Not Nice",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\61_Nice Not Nice.pdf",
+    "relativePath": "raz\\a\\pdf\\61_Nice Not Nice.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "62_Who Has It",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\62_Who Has It.pdf",
+    "relativePath": "raz\\a\\pdf\\62_Who Has It.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "63_Snake Colors",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\63_Snake Colors.pdf",
+    "relativePath": "raz\\a\\pdf\\63_Snake Colors.pdf",
+    "tags": [
+      "颜色",
+      "动物",
+      "艺术"
+    ]
+  },
+  {
+    "name": "64_The Parade",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\64_The Parade.pdf",
+    "relativePath": "raz\\a\\pdf\\64_The Parade.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "65_My House",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\65_My House.pdf",
+    "relativePath": "raz\\a\\pdf\\65_My House.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "66_Car Parts",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\66_Car Parts.pdf",
+    "relativePath": "raz\\a\\pdf\\66_Car Parts.pdf",
+    "tags": [
+      "交通工具",
+      "艺术"
+    ]
+  },
+  {
+    "name": "67_Shapes In Nature",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\67_Shapes In Nature.pdf",
+    "relativePath": "raz\\a\\pdf\\67_Shapes In Nature.pdf",
+    "tags": [
+      "自然",
+      "形状"
+    ]
+  },
+  {
+    "name": "68_I Draw A Bunny",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\68_I Draw A Bunny.pdf",
+    "relativePath": "raz\\a\\pdf\\68_I Draw A Bunny.pdf",
+    "tags": [
+      "动作",
+      "艺术"
+    ]
+  },
+  {
+    "name": "69_Bird Colors",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\69_Bird Colors.pdf",
+    "relativePath": "raz\\a\\pdf\\69_Bird Colors.pdf",
+    "tags": [
+      "颜色",
+      "动物",
+      "艺术"
+    ]
+  },
+  {
+    "name": "70_The Rainstorm",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\70_The Rainstorm.pdf",
+    "relativePath": "raz\\a\\pdf\\70_The Rainstorm.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "71_Rabbits",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\71_Rabbits.pdf",
+    "relativePath": "raz\\a\\pdf\\71_Rabbits.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "72_I Set The Table",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\72_I Set The Table.pdf",
+    "relativePath": "raz\\a\\pdf\\72_I Set The Table.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "73_Smile",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\73_Smile.pdf",
+    "relativePath": "raz\\a\\pdf\\73_Smile.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "74_Grandparents are Great",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\74_Grandparents are Great.pdf",
+    "relativePath": "raz\\a\\pdf\\74_Grandparents are Great.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "75_Spring and Fall",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\75_Spring and Fall.pdf",
+    "relativePath": "raz\\a\\pdf\\75_Spring and Fall.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "76_This Tastes",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\76_This Tastes.pdf",
+    "relativePath": "raz\\a\\pdf\\76_This Tastes.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "77_Building with Blocks",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\77_Building with Blocks.pdf",
+    "relativePath": "raz\\a\\pdf\\77_Building with Blocks.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "78_This Insect",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\78_This Insect.pdf",
+    "relativePath": "raz\\a\\pdf\\78_This Insect.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "79_Where They Hid",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\79_Where They Hid.pdf",
+    "relativePath": "raz\\a\\pdf\\79_Where They Hid.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "80_This Feels",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\80_This Feels.pdf",
+    "relativePath": "raz\\a\\pdf\\80_This Feels.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "81_For Mom",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\81_For Mom.pdf",
+    "relativePath": "raz\\a\\pdf\\81_For Mom.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "82_Dad and I",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\82_Dad and I.pdf",
+    "relativePath": "raz\\a\\pdf\\82_Dad and I.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "83_I Dream",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\83_I Dream.pdf",
+    "relativePath": "raz\\a\\pdf\\83_I Dream.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "84_Where to Go",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\84_Where to Go.pdf",
+    "relativePath": "raz\\a\\pdf\\84_Where to Go.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "85_Halloween Houses",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\85_Halloween Houses.pdf",
+    "relativePath": "raz\\a\\pdf\\85_Halloween Houses.pdf",
+    "tags": [
+      "节日",
+      "地点",
+      "节日"
+    ]
+  },
+  {
+    "name": "86_Smells Like Thanksgiving",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\86_Smells Like Thanksgiving.pdf",
+    "relativePath": "raz\\a\\pdf\\86_Smells Like Thanksgiving.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "87_Christmas Cookies",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\87_Christmas Cookies.pdf",
+    "relativePath": "raz\\a\\pdf\\87_Christmas Cookies.pdf",
+    "tags": [
+      "食物",
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "88_Write!",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\88_Write!.pdf",
+    "relativePath": "raz\\a\\pdf\\88_Write!.pdf",
+    "tags": [
+      "动作"
+    ]
+  },
+  {
+    "name": "89_This Sounds",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\89_This Sounds.pdf",
+    "relativePath": "raz\\a\\pdf\\89_This Sounds.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "90_Time for Eggs",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\90_Time for Eggs.pdf",
+    "relativePath": "raz\\a\\pdf\\90_Time for Eggs.pdf",
+    "tags": [
+      "时间"
+    ]
+  },
+  {
+    "name": "91_This Looks",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\91_This Looks.pdf",
+    "relativePath": "raz\\a\\pdf\\91_This Looks.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "92_Our Apartment Building",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\92_Our Apartment Building.pdf",
+    "relativePath": "raz\\a\\pdf\\92_Our Apartment Building.pdf",
+    "tags": [
+      "艺术"
+    ]
+  },
+  {
+    "name": "93_All Kinds of Buttons",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\93_All Kinds of Buttons.pdf",
+    "relativePath": "raz\\a\\pdf\\93_All Kinds of Buttons.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "94_Halloween Pumpkins",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\94_Halloween Pumpkins.pdf",
+    "relativePath": "raz\\a\\pdf\\94_Halloween Pumpkins.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "95_Make Me Laugh",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\95_Make Me Laugh.pdf",
+    "relativePath": "raz\\a\\pdf\\95_Make Me Laugh.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "96_Move It!",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\96_Move It!.pdf",
+    "relativePath": "raz\\a\\pdf\\96_Move It!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "97_Make a Salad",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\97_Make a Salad.pdf",
+    "relativePath": "raz\\a\\pdf\\97_Make a Salad.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "98_Scary, Not Scary",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\98_Scary, Not Scary.pdf",
+    "relativePath": "raz\\a\\pdf\\98_Scary, Not Scary.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "99_This Lizard",
+    "type": "raz",
+    "level": "A",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\a\\pdf\\99_This Lizard.pdf",
+    "relativePath": "raz\\a\\pdf\\99_This Lizard.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "01_The Zoo",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\01 - The Zoo.pdf",
+    "relativePath": "raz\\aa\\pdf\\01 - The Zoo.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "02_Funny Cat",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\02 - Funny Cat.pdf",
+    "relativePath": "raz\\aa\\pdf\\02 - Funny Cat.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "03_The City",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\03 - The City.pdf",
+    "relativePath": "raz\\aa\\pdf\\03 - The City.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "04_Go, Go, Go",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\04 - Go, Go, Go.pdf",
+    "relativePath": "raz\\aa\\pdf\\04 - Go, Go, Go.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "05_My Family",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\05 - My Family.pdf",
+    "relativePath": "raz\\aa\\pdf\\05 - My Family.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "06_Big",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\06 - Big.pdf",
+    "relativePath": "raz\\aa\\pdf\\06 - Big.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "07_Little",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\07 - Little.pdf",
+    "relativePath": "raz\\aa\\pdf\\07 - Little.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "08_Summer",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\08 - Summer.pdf",
+    "relativePath": "raz\\aa\\pdf\\08 - Summer.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "09_Winter",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\09 - Winter.pdf",
+    "relativePath": "raz\\aa\\pdf\\09 - Winter.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "10_The Trip",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\10 - The Trip.pdf",
+    "relativePath": "raz\\aa\\pdf\\10 - The Trip.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "100_These Are Opposites",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\100_These Are Opposites.pdf",
+    "relativePath": "raz\\aa\\pdf\\100_These Are Opposites.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "11_Pasta",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\11 - Pasta.pdf",
+    "relativePath": "raz\\aa\\pdf\\11 - Pasta.pdf",
+    "tags": [
+      "历史"
+    ]
+  },
+  {
+    "name": "12_Counting Bugs",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\12 - Counting Bugs.pdf",
+    "relativePath": "raz\\aa\\pdf\\12 - Counting Bugs.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "13_The Supermarket",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\13 - The Supermarket.pdf",
+    "relativePath": "raz\\aa\\pdf\\13 - The Supermarket.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "14_Pets",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\14 - Pets.pdf",
+    "relativePath": "raz\\aa\\pdf\\14 - Pets.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "15_Fido Gets Dressed",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\15 - Fido Gets Dressed.pdf",
+    "relativePath": "raz\\aa\\pdf\\15 - Fido Gets Dressed.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "16_Over",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\16 - Over.pdf",
+    "relativePath": "raz\\aa\\pdf\\16 - Over.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "17_The Classroom",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\17 - The Classroom.pdf",
+    "relativePath": "raz\\aa\\pdf\\17 - The Classroom.pdf",
+    "tags": [
+      "学校"
+    ]
+  },
+  {
+    "name": "18_We Build",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\18 - We Build.pdf",
+    "relativePath": "raz\\aa\\pdf\\18 - We Build.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "19_Show Some Love",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\19 - Show Some Love.pdf",
+    "relativePath": "raz\\aa\\pdf\\19 - Show Some Love.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "20_Play Ball",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\20 - Play Ball.pdf",
+    "relativePath": "raz\\aa\\pdf\\20 - Play Ball.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "21_The Chicken",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\21 - The Chicken.pdf",
+    "relativePath": "raz\\aa\\pdf\\21 - The Chicken.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "22_The School",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\22 - The School.pdf",
+    "relativePath": "raz\\aa\\pdf\\22 - The School.pdf",
+    "tags": [
+      "学校",
+      "地点"
+    ]
+  },
+  {
+    "name": "23_Rainforest Animals",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\23 - Rainforest Animals.pdf",
+    "relativePath": "raz\\aa\\pdf\\23 - Rainforest Animals.pdf",
+    "tags": [
+      "动物",
+      "自然",
+      "天气"
+    ]
+  },
+  {
+    "name": "24_Summer Picnics",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\24 - Summer Picnics.pdf",
+    "relativePath": "raz\\aa\\pdf\\24 - Summer Picnics.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "25_Counting Letters",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\25 - Counting Letters.pdf",
+    "relativePath": "raz\\aa\\pdf\\25 - Counting Letters.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "26_Jump Over",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\26 - Jump Over.pdf",
+    "relativePath": "raz\\aa\\pdf\\26 - Jump Over.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "27_Toys",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\27 - Toys.pdf",
+    "relativePath": "raz\\aa\\pdf\\27 - Toys.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "28_Farm Animals",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\28 - Farm Animals.pdf",
+    "relativePath": "raz\\aa\\pdf\\28 - Farm Animals.pdf",
+    "tags": [
+      "动物",
+      "身体",
+      "科学"
+    ]
+  },
+  {
+    "name": "29_In",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\29 - In.pdf",
+    "relativePath": "raz\\aa\\pdf\\29 - In.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "30_out",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\30 - out.pdf",
+    "relativePath": "raz\\aa\\pdf\\30 - out.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "31_Spring",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\31 - Spring.pdf",
+    "relativePath": "raz\\aa\\pdf\\31 - Spring.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "32_One Insect",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\32 - One Insect.pdf",
+    "relativePath": "raz\\aa\\pdf\\32 - One Insect.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "33_Picking Apples",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\33 - Picking Apples.pdf",
+    "relativePath": "raz\\aa\\pdf\\33 - Picking Apples.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "34_Plains Animals",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\34 - Plains Animals.pdf",
+    "relativePath": "raz\\aa\\pdf\\34 - Plains Animals.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "35_The Playground",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\35 - The Playground.pdf",
+    "relativePath": "raz\\aa\\pdf\\35 - The Playground.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "36_These Birds",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\36 - These Birds.pdf",
+    "relativePath": "raz\\aa\\pdf\\36 - These Birds.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "37_The Ocean",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\37 - The Ocean.pdf",
+    "relativePath": "raz\\aa\\pdf\\37 - The Ocean.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "38_The Plant",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\38 - The Plant.pdf",
+    "relativePath": "raz\\aa\\pdf\\38 - The Plant.pdf",
+    "tags": [
+      "自然",
+      "科学"
+    ]
+  },
+  {
+    "name": "39_The Coast",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\39 - The Coast.pdf",
+    "relativePath": "raz\\aa\\pdf\\39 - The Coast.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "40_City Street",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\40 - City Street.pdf",
+    "relativePath": "raz\\aa\\pdf\\40 - City Street.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "41_It Is Fall",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\41 - It Is Fall.pdf",
+    "relativePath": "raz\\aa\\pdf\\41 - It Is Fall.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "42_OFF",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\42 - OFF.pdf",
+    "relativePath": "raz\\aa\\pdf\\42 - OFF.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "43_On",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\43 - On.pdf",
+    "relativePath": "raz\\aa\\pdf\\43 - On.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "44_The Garden",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\44 - The Garden.pdf",
+    "relativePath": "raz\\aa\\pdf\\44 - The Garden.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "45_Under",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\45 - Under.pdf",
+    "relativePath": "raz\\aa\\pdf\\45 - Under.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "46_The Backyard",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\46 - The Backyard.pdf",
+    "relativePath": "raz\\aa\\pdf\\46 - The Backyard.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "47_Water",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\47 - Water.pdf",
+    "relativePath": "raz\\aa\\pdf\\47 - Water.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "48_The Book",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\48 - The Book.pdf",
+    "relativePath": "raz\\aa\\pdf\\48 - The Book.pdf",
+    "tags": [
+      "学校"
+    ]
+  },
+  {
+    "name": "49_Too Many Sweets",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\49 - Too Many Sweets.pdf",
+    "relativePath": "raz\\aa\\pdf\\49 - Too Many Sweets.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "50_My Gift for Mom",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\50 - My Gift for Mom.pdf",
+    "relativePath": "raz\\aa\\pdf\\50 - My Gift for Mom.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "51_My School Bus",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\51 - My School Bus.pdf",
+    "relativePath": "raz\\aa\\pdf\\51 - My School Bus.pdf",
+    "tags": [
+      "学校",
+      "交通工具",
+      "地点"
+    ]
+  },
+  {
+    "name": "52_Lunch at School",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\52 - Lunch at School.pdf",
+    "relativePath": "raz\\aa\\pdf\\52 - Lunch at School.pdf",
+    "tags": [
+      "学校",
+      "地点"
+    ]
+  },
+  {
+    "name": "53_The Fort",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\53 - The Fort.pdf",
+    "relativePath": "raz\\aa\\pdf\\53 - The Fort.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "54_Colorful Eggs",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\54 - Colorful Eggs.pdf",
+    "relativePath": "raz\\aa\\pdf\\54 - Colorful Eggs.pdf",
+    "tags": [
+      "颜色",
+      "艺术"
+    ]
+  },
+  {
+    "name": "55_The Street",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\55 - The Street.pdf",
+    "relativePath": "raz\\aa\\pdf\\55 - The Street.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "56_One",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\56 - One.pdf",
+    "relativePath": "raz\\aa\\pdf\\56 - One.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "57_Two",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\57 - Two.pdf",
+    "relativePath": "raz\\aa\\pdf\\57 - Two.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "58_Three",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\58 - Three.pdf",
+    "relativePath": "raz\\aa\\pdf\\58 - Three.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "59_Four",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\59 - Four.pdf",
+    "relativePath": "raz\\aa\\pdf\\59 - Four.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "60_Five",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\60 - Five.pdf",
+    "relativePath": "raz\\aa\\pdf\\60 - Five.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "61_Six",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\61 - Six.pdf",
+    "relativePath": "raz\\aa\\pdf\\61 - Six.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "62_Seven",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\62 - Seven.pdf",
+    "relativePath": "raz\\aa\\pdf\\62 - Seven.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "63_Eight",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\63 - Eight.pdf",
+    "relativePath": "raz\\aa\\pdf\\63 - Eight.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "64_NINE",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\64 - NINE.pdf",
+    "relativePath": "raz\\aa\\pdf\\64 - NINE.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "65_Ten",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\65 - Ten.pdf",
+    "relativePath": "raz\\aa\\pdf\\65 - Ten.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "66_Eleven",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\66 - Eleven.pdf",
+    "relativePath": "raz\\aa\\pdf\\66 - Eleven.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "67_Twelve",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\67 - Twelve.pdf",
+    "relativePath": "raz\\aa\\pdf\\67 - Twelve.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "68_Green",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\68 - Green.pdf",
+    "relativePath": "raz\\aa\\pdf\\68 - Green.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "69_Orange",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\69 - Orange.pdf",
+    "relativePath": "raz\\aa\\pdf\\69 - Orange.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "70_Purple",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\70 - Purple.pdf",
+    "relativePath": "raz\\aa\\pdf\\70 - Purple.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "71_Red",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\71 - Red.pdf",
+    "relativePath": "raz\\aa\\pdf\\71 - Red.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "72_Yellow",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\72 - Yellow.pdf",
+    "relativePath": "raz\\aa\\pdf\\72 - Yellow.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "73_BLACK",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\73 - BLACK.pdf",
+    "relativePath": "raz\\aa\\pdf\\73 - BLACK.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "74_White",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\74 - White.pdf",
+    "relativePath": "raz\\aa\\pdf\\74 - White.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "75_BLUE",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\75 - BLUE.pdf",
+    "relativePath": "raz\\aa\\pdf\\75 - BLUE.pdf",
+    "tags": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "76_My Bath",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\76 - My Bath.pdf",
+    "relativePath": "raz\\aa\\pdf\\76 - My Bath.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "77_The Birthday Party",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\77 - The Birthday Party.pdf",
+    "relativePath": "raz\\aa\\pdf\\77 - The Birthday Party.pdf",
+    "tags": [
+      "节日",
+      "艺术",
+      "节日"
+    ]
+  },
+  {
+    "name": "78_Valentine's Day Gifts",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\78 - Valentine's Day Gifts.pdf",
+    "relativePath": "raz\\aa\\pdf\\78 - Valentine's Day Gifts.pdf",
+    "tags": [
+      "节日"
+    ]
+  },
+  {
+    "name": "79_The Baseball Game",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\79 - The Baseball Game.pdf",
+    "relativePath": "raz\\aa\\pdf\\79 - The Baseball Game.pdf",
+    "tags": [
+      "运动"
+    ]
+  },
+  {
+    "name": "80_My Garden",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\80 - My Garden.pdf",
+    "relativePath": "raz\\aa\\pdf\\80 - My Garden.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "81_We Go Camping",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\81 - We Go Camping.pdf",
+    "relativePath": "raz\\aa\\pdf\\81 - We Go Camping.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "82_Christmas Eve",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\82 - Christmas Eve.pdf",
+    "relativePath": "raz\\aa\\pdf\\82 - Christmas Eve.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "83_This Kitchen",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\83 - This Kitchen.pdf",
+    "relativePath": "raz\\aa\\pdf\\83 - This Kitchen.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "84_At the Lake",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\84 - At the Lake.pdf",
+    "relativePath": "raz\\aa\\pdf\\84 - At the Lake.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "85_Good Night",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\85 - Good Night.pdf",
+    "relativePath": "raz\\aa\\pdf\\85 - Good Night.pdf",
+    "tags": [
+      "时间"
+    ]
+  },
+  {
+    "name": "86_My Hanukkah",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\86_My Hanukkah.pdf",
+    "relativePath": "raz\\aa\\pdf\\86_My Hanukkah.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "87_My Closet",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\87_My Closet.pdf",
+    "relativePath": "raz\\aa\\pdf\\87_My Closet.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "88_My Easter",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\88_My Easter.pdf",
+    "relativePath": "raz\\aa\\pdf\\88_My Easter.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "89_Summer Cam",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\89_Summer Cam.pdf",
+    "relativePath": "raz\\aa\\pdf\\89_Summer Cam.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "90_The Subway",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\90_The Subway.pdf",
+    "relativePath": "raz\\aa\\pdf\\90_The Subway.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "91_The Bookstore",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\91_The Bookstore.pdf",
+    "relativePath": "raz\\aa\\pdf\\91_The Bookstore.pdf",
+    "tags": [
+      "学校",
+      "地点"
+    ]
+  },
+  {
+    "name": "92_Mom",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\92_Mom.pdf",
+    "relativePath": "raz\\aa\\pdf\\92_Mom.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "93_Rain on Fairyland",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\93_Rain on Fairyland.pdf",
+    "relativePath": "raz\\aa\\pdf\\93_Rain on Fairyland.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "94_On an Airplane",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\94_On an Airplane.pdf",
+    "relativePath": "raz\\aa\\pdf\\94_On an Airplane.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "95_Animals Nap",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\95_Animals Nap.pdf",
+    "relativePath": "raz\\aa\\pdf\\95_Animals Nap.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "96_Jungle Friends",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\96_Jungle Friends.pdf",
+    "relativePath": "raz\\aa\\pdf\\96_Jungle Friends.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "97_The Movie",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\97_The Movie.pdf",
+    "relativePath": "raz\\aa\\pdf\\97_The Movie.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "98_The Post Office",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\98_The Post Office.pdf",
+    "relativePath": "raz\\aa\\pdf\\98_The Post Office.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "99_The Market",
+    "type": "raz",
+    "level": "AA",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\aa\\pdf\\99_The Market.pdf",
+    "relativePath": "raz\\aa\\pdf\\99_The Market.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "01_Valentines All Around",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\01_Valentines All Around.pdf",
+    "relativePath": "raz\\b\\pdf\\01_Valentines All Around.pdf",
+    "tags": [
+      "节日"
+    ]
+  },
+  {
+    "name": "02_Near and Far Away",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\02_Near and Far Away.pdf",
+    "relativePath": "raz\\b\\pdf\\02_Near and Far Away.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "03_Animal Sounds",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\03_Animal Sounds.pdf",
+    "relativePath": "raz\\b\\pdf\\03_Animal Sounds.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "04_Animals Can Move",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\04_Animals Can Move.pdf",
+    "relativePath": "raz\\b\\pdf\\04_Animals Can Move.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "05_I Pick Up",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\05_I Pick Up.pdf",
+    "relativePath": "raz\\b\\pdf\\05_I Pick Up.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "06_It Is School Time",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\06_It Is School Time.pdf",
+    "relativePath": "raz\\b\\pdf\\06_It Is School Time.pdf",
+    "tags": [
+      "学校",
+      "时间",
+      "地点"
+    ]
+  },
+  {
+    "name": "07_You and I",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\07_You and I.pdf",
+    "relativePath": "raz\\b\\pdf\\07_You and I.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "08_You Can Go",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\08_You Can Go.pdf",
+    "relativePath": "raz\\b\\pdf\\08_You Can Go.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "09_Animal Coverings",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\09_Animal Coverings.pdf",
+    "relativePath": "raz\\b\\pdf\\09_Animal Coverings.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "10_Taking the Bus",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\10_Taking the Bus.pdf",
+    "relativePath": "raz\\b\\pdf\\10_Taking the Bus.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "11_Winter Fun",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\11_Winter Fun.pdf",
+    "relativePath": "raz\\b\\pdf\\11_Winter Fun.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "12_What Has These Stripes",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\12_What Has These Stripes.pdf",
+    "relativePath": "raz\\b\\pdf\\12_What Has These Stripes.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "13_We Pack a Picnic",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\13_We Pack a Picnic.pdf",
+    "relativePath": "raz\\b\\pdf\\13_We Pack a Picnic.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "14_What Has These Spots",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\14_What Has These Spots.pdf",
+    "relativePath": "raz\\b\\pdf\\14_What Has These Spots.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "15_What Has This Tail",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\15_What Has This Tail.pdf",
+    "relativePath": "raz\\b\\pdf\\15_What Has This Tail.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "16_Rain in the City",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\16_Rain in the City.pdf",
+    "relativePath": "raz\\b\\pdf\\16_Rain in the City.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "17_Applesauce",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\17_Applesauce.pdf",
+    "relativePath": "raz\\b\\pdf\\17_Applesauce.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "18_Three Baby Birds",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\18_Three Baby Birds.pdf",
+    "relativePath": "raz\\b\\pdf\\18_Three Baby Birds.pdf",
+    "tags": [
+      "数字",
+      "动物"
+    ]
+  },
+  {
+    "name": "19_Light and Heavy",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\19_Light and Heavy.pdf",
+    "relativePath": "raz\\b\\pdf\\19_Light and Heavy.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "20_What Flies in the Sky",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\20_What Flies in the Sky.pdf",
+    "relativePath": "raz\\b\\pdf\\20_What Flies in the Sky.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "21_Firefly",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\21_Firefly.pdf",
+    "relativePath": "raz\\b\\pdf\\21_Firefly.pdf",
+    "tags": [
+      "动作"
+    ]
+  },
+  {
+    "name": "22_Clean Is Not for Me",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\22_Clean Is Not for Me.pdf",
+    "relativePath": "raz\\b\\pdf\\22_Clean Is Not for Me.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "23_The Pet Rats",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\23_The Pet Rats.pdf",
+    "relativePath": "raz\\b\\pdf\\23_The Pet Rats.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "24_My Brain",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\24_My Brain.pdf",
+    "relativePath": "raz\\b\\pdf\\24_My Brain.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "25_Rain in the Country",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\25_Rain in the Country.pdf",
+    "relativePath": "raz\\b\\pdf\\25_Rain in the Country.pdf",
+    "tags": [
+      "数字",
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "26_On the Farm",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\26_On the Farm.pdf",
+    "relativePath": "raz\\b\\pdf\\26_On the Farm.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "27_Boats",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\27_Boats.pdf",
+    "relativePath": "raz\\b\\pdf\\27_Boats.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "28_After School",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\28_After School.pdf",
+    "relativePath": "raz\\b\\pdf\\28_After School.pdf",
+    "tags": [
+      "学校",
+      "地点",
+      "历史"
+    ]
+  },
+  {
+    "name": "29_I Am a Community Worker",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\29_I Am a Community Worker.pdf",
+    "relativePath": "raz\\b\\pdf\\29_I Am a Community Worker.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "30_Animal Caution Signs",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\30_Animal Caution Signs.pdf",
+    "relativePath": "raz\\b\\pdf\\30_Animal Caution Signs.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "31_Halloween Costumes",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\31_Halloween Costumes.pdf",
+    "relativePath": "raz\\b\\pdf\\31_Halloween Costumes.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "32_Too High",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\32_Too High.pdf",
+    "relativePath": "raz\\b\\pdf\\32_Too High.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "33_All By Myself",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\33_All By Myself.pdf",
+    "relativePath": "raz\\b\\pdf\\33_All By Myself.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "34_Healthy Snacks",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\34_Healthy Snacks.pdf",
+    "relativePath": "raz\\b\\pdf\\34_Healthy Snacks.pdf",
+    "tags": [
+      "科学"
+    ]
+  },
+  {
+    "name": "35_Wet Wally",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\35_Wet Wally.pdf",
+    "relativePath": "raz\\b\\pdf\\35_Wet Wally.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "36_Drop It!",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\36_Drop It!.pdf",
+    "relativePath": "raz\\b\\pdf\\36_Drop It!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "37_The Sandwich",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\37_The Sandwich.pdf",
+    "relativePath": "raz\\b\\pdf\\37_The Sandwich.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "38_This Turtle",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\38_This Turtle.pdf",
+    "relativePath": "raz\\b\\pdf\\38_This Turtle.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "39_Games We Play",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\39_Games We Play.pdf",
+    "relativePath": "raz\\b\\pdf\\39_Games We Play.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "40_Too Many Leaves",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\40_Too Many Leaves.pdf",
+    "relativePath": "raz\\b\\pdf\\40_Too Many Leaves.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "41_It Is Spring",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\41_It Is Spring.pdf",
+    "relativePath": "raz\\b\\pdf\\41_It Is Spring.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "42_The New Forest Path",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\42_The New Forest Path.pdf",
+    "relativePath": "raz\\b\\pdf\\42_The New Forest Path.pdf",
+    "tags": [
+      "自然",
+      "历史"
+    ]
+  },
+  {
+    "name": "43_Playful Puppy",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\43_Playful Puppy.pdf",
+    "relativePath": "raz\\b\\pdf\\43_Playful Puppy.pdf",
+    "tags": [
+      "动物",
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "44_Where",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\44_Where.pdf",
+    "relativePath": "raz\\b\\pdf\\44_Where.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "45_The Picnic",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\45_The Picnic.pdf",
+    "relativePath": "raz\\b\\pdf\\45_The Picnic.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "46_Paint It Purple",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\46_Paint It Purple.pdf",
+    "relativePath": "raz\\b\\pdf\\46_Paint It Purple.pdf",
+    "tags": [
+      "颜色",
+      "艺术"
+    ]
+  },
+  {
+    "name": "47_How Many Legs",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\47_How Many Legs.pdf",
+    "relativePath": "raz\\b\\pdf\\47_How Many Legs.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "48_Where Is Water",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\48_Where Is Water.pdf",
+    "relativePath": "raz\\b\\pdf\\48_Where Is Water.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "49_Pond Life",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\49_Pond Life.pdf",
+    "relativePath": "raz\\b\\pdf\\49_Pond Life.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "50_What Has These Feet",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\50_What Has These Feet.pdf",
+    "relativePath": "raz\\b\\pdf\\50_What Has These Feet.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "51_Bananas Sometimes",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\51_Bananas Sometimes.pdf",
+    "relativePath": "raz\\b\\pdf\\51_Bananas Sometimes.pdf",
+    "tags": [
+      "时间"
+    ]
+  },
+  {
+    "name": "52_Maria and Her Teacher",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\52_Maria and Her Teacher.pdf",
+    "relativePath": "raz\\b\\pdf\\52_Maria and Her Teacher.pdf",
+    "tags": [
+      "学校",
+      "职业"
+    ]
+  },
+  {
+    "name": "53_Carlos and His Teacher",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\53_Carlos and His Teacher.pdf",
+    "relativePath": "raz\\b\\pdf\\53_Carlos and His Teacher.pdf",
+    "tags": [
+      "学校",
+      "交通工具",
+      "职业"
+    ]
+  },
+  {
+    "name": "54_Two Little Dicky Birds",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\54_Two Little Dicky Birds.pdf",
+    "relativePath": "raz\\b\\pdf\\54_Two Little Dicky Birds.pdf",
+    "tags": [
+      "数字",
+      "动物"
+    ]
+  },
+  {
+    "name": "55_I Read a Book",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\55_I Read a Book.pdf",
+    "relativePath": "raz\\b\\pdf\\55_I Read a Book.pdf",
+    "tags": [
+      "学校",
+      "动作"
+    ]
+  },
+  {
+    "name": "56_Ten",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\56_Ten.pdf",
+    "relativePath": "raz\\b\\pdf\\56_Ten.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "57_We Make Cookies",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\57_We Make Cookies.pdf",
+    "relativePath": "raz\\b\\pdf\\57_We Make Cookies.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "58_Gracie's Nose",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\58_Gracie's Nose.pdf",
+    "relativePath": "raz\\b\\pdf\\58_Gracie's Nose.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "59_Go Animals Go",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\59_Go Animals Go.pdf",
+    "relativePath": "raz\\b\\pdf\\59_Go Animals Go.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "60_Taking Care of Chase",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\60_Taking Care of Chase.pdf",
+    "relativePath": "raz\\b\\pdf\\60_Taking Care of Chase.pdf",
+    "tags": [
+      "交通工具",
+      "社交"
+    ]
+  },
+  {
+    "name": "61_Yours or Mine",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\61_Yours or Mine.pdf",
+    "relativePath": "raz\\b\\pdf\\61_Yours or Mine.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "62_My Pet Dinosaur",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\62_My Pet Dinosaur.pdf",
+    "relativePath": "raz\\b\\pdf\\62_My Pet Dinosaur.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "63_Old and New",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\63_Old and New.pdf",
+    "relativePath": "raz\\b\\pdf\\63_Old and New.pdf",
+    "tags": [
+      "历史"
+    ]
+  },
+  {
+    "name": "64_I Love the Earth",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\64_I Love the Earth.pdf",
+    "relativePath": "raz\\b\\pdf\\64_I Love the Earth.pdf",
+    "tags": [
+      "身体",
+      "科学",
+      "艺术"
+    ]
+  },
+  {
+    "name": "65_The Hungry Goat",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\65_The Hungry Goat.pdf",
+    "relativePath": "raz\\b\\pdf\\65_The Hungry Goat.pdf",
+    "tags": [
+      "情绪"
+    ]
+  },
+  {
+    "name": "66_I Love Art Class",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\66_I Love Art Class.pdf",
+    "relativePath": "raz\\b\\pdf\\66_I Love Art Class.pdf",
+    "tags": [
+      "学校",
+      "艺术",
+      "社交"
+    ]
+  },
+  {
+    "name": "67_Our Show",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\67_Our Show.pdf",
+    "relativePath": "raz\\b\\pdf\\67_Our Show.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "68_The Big Game",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\68_The Big Game.pdf",
+    "relativePath": "raz\\b\\pdf\\68_The Big Game.pdf",
+    "tags": [
+      "运动"
+    ]
+  },
+  {
+    "name": "69_Animal Ears",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\69_Animal Ears.pdf",
+    "relativePath": "raz\\b\\pdf\\69_Animal Ears.pdf",
+    "tags": [
+      "动物",
+      "身体",
+      "科学"
+    ]
+  },
+  {
+    "name": "70_A Cold Day",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\70_A Cold Day.pdf",
+    "relativePath": "raz\\b\\pdf\\70_A Cold Day.pdf",
+    "tags": [
+      "历史"
+    ]
+  },
+  {
+    "name": "71_Bonkers Likes to Bark",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\71_Bonkers Likes to Bark.pdf",
+    "relativePath": "raz\\b\\pdf\\71_Bonkers Likes to Bark.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "72_Bridges",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\72_Bridges.pdf",
+    "relativePath": "raz\\b\\pdf\\72_Bridges.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "73_Are These His or Hers",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\73_Are These His or Hers.pdf",
+    "relativePath": "raz\\b\\pdf\\73_Are These His or Hers.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "74_Mixing Colors",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\74_Mixing Colors.pdf",
+    "relativePath": "raz\\b\\pdf\\74_Mixing Colors.pdf",
+    "tags": [
+      "颜色",
+      "艺术"
+    ]
+  },
+  {
+    "name": "75_Lazy Lulu",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\75_Lazy Lulu.pdf",
+    "relativePath": "raz\\b\\pdf\\75_Lazy Lulu.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "76_Beach Fun",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\76_Beach Fun.pdf",
+    "relativePath": "raz\\b\\pdf\\76_Beach Fun.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "77_Time For Soccer",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\77_Time For Soccer.pdf",
+    "relativePath": "raz\\b\\pdf\\77_Time For Soccer.pdf",
+    "tags": [
+      "时间",
+      "运动"
+    ]
+  },
+  {
+    "name": "78_Trucks",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\78_Trucks.pdf",
+    "relativePath": "raz\\b\\pdf\\78_Trucks.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "79_Stop That Cat",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\79_Stop That Cat.pdf",
+    "relativePath": "raz\\b\\pdf\\79_Stop That Cat.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "80_Henry's Hike",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\80_Henry's Hike.pdf",
+    "relativePath": "raz\\b\\pdf\\80_Henry's Hike.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "81_Swing, Sydney, Swing",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\81_Swing, Sydney, Swing.pdf",
+    "relativePath": "raz\\b\\pdf\\81_Swing, Sydney, Swing.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "82_High or Low",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\82_High or Low.pdf",
+    "relativePath": "raz\\b\\pdf\\82_High or Low.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "83_Sophie Goes for a Walk",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\83_Sophie Goes for a Walk.pdf",
+    "relativePath": "raz\\b\\pdf\\83_Sophie Goes for a Walk.pdf",
+    "tags": [
+      "动作"
+    ]
+  },
+  {
+    "name": "84_The Kids Built It",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\84_The Kids Built It.pdf",
+    "relativePath": "raz\\b\\pdf\\84_The Kids Built It.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "85_On Thanksgiving",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\85_On Thanksgiving.pdf",
+    "relativePath": "raz\\b\\pdf\\85_On Thanksgiving.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "86_Things Made of Wood",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\86_Things Made of Wood.pdf",
+    "relativePath": "raz\\b\\pdf\\86_Things Made of Wood.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "87_What Gives Cover",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\87_What Gives Cover.pdf",
+    "relativePath": "raz\\b\\pdf\\87_What Gives Cover.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "88_The Aquarium",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\88_The Aquarium.pdf",
+    "relativePath": "raz\\b\\pdf\\88_The Aquarium.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "89_Amazing Caves",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\89_Amazing Caves.pdf",
+    "relativePath": "raz\\b\\pdf\\89_Amazing Caves.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "90_Under My Bed",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\90_Under My Bed.pdf",
+    "relativePath": "raz\\b\\pdf\\90_Under My Bed.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "91_We Do Not Share",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\91_We Do Not Share.pdf",
+    "relativePath": "raz\\b\\pdf\\91_We Do Not Share.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "92_Gobi Desert Animals",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\92_Gobi Desert Animals.pdf",
+    "relativePath": "raz\\b\\pdf\\92_Gobi Desert Animals.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "93_Mouse in the City",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\93_Mouse in the City.pdf",
+    "relativePath": "raz\\b\\pdf\\93_Mouse in the City.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "94_So Many Shops",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\94_So Many Shops.pdf",
+    "relativePath": "raz\\b\\pdf\\94_So Many Shops.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "95_Crows on a Wire",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\95_Crows on a Wire.pdf",
+    "relativePath": "raz\\b\\pdf\\95_Crows on a Wire.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "96_Wake Up, Rooster!",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\96_Wake Up, Rooster!.pdf",
+    "relativePath": "raz\\b\\pdf\\96_Wake Up, Rooster!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "97_Make a Superhero",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\97_Make a Superhero.pdf",
+    "relativePath": "raz\\b\\pdf\\97_Make a Superhero.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "98_Wind Blows",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\98_Wind Blows.pdf",
+    "relativePath": "raz\\b\\pdf\\98_Wind Blows.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "99_Fun with Paper",
+    "type": "raz",
+    "level": "B",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\b\\pdf\\99_Fun with Paper.pdf",
+    "relativePath": "raz\\b\\pdf\\99_Fun with Paper.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "01_How Things Move",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\01_How Things Move.pdf",
+    "relativePath": "raz\\c\\pdf\\01_How Things Move.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "02_I Can Help",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\02_I Can Help.pdf",
+    "relativePath": "raz\\c\\pdf\\02_I Can Help.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "03_Get In",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\03_Get In.pdf",
+    "relativePath": "raz\\c\\pdf\\03_Get In.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "04_Open and Close",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\04_Open and Close.pdf",
+    "relativePath": "raz\\c\\pdf\\04_Open and Close.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "05_Birthday Party",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\05_Birthday Party.pdf",
+    "relativePath": "raz\\c\\pdf\\05_Birthday Party.pdf",
+    "tags": [
+      "节日",
+      "艺术",
+      "节日"
+    ]
+  },
+  {
+    "name": "06_Yummy,Yummy",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\06_Yummy,Yummy.pdf",
+    "relativePath": "raz\\c\\pdf\\06_Yummy,Yummy.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "07_Going Away",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\07_Going Away.pdf",
+    "relativePath": "raz\\c\\pdf\\07_Going Away.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "08_What Is at the Zoo",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\08_What Is at the Zoo.pdf",
+    "relativePath": "raz\\c\\pdf\\08_What Is at the Zoo.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "09_How Many",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\09_How Many.pdf",
+    "relativePath": "raz\\c\\pdf\\09_How Many.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "100_Elephant Car Wash",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\100_Elephant Car Wash.pdf",
+    "relativePath": "raz\\c\\pdf\\100_Elephant Car Wash.pdf",
+    "tags": [
+      "动物",
+      "交通工具"
+    ]
+  },
+  {
+    "name": "10_Who,Who,Who",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\10_Who,Who,Who.pdf",
+    "relativePath": "raz\\c\\pdf\\10_Who,Who,Who.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "11_When Is Nighttime",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\11_When Is Nighttime.pdf",
+    "relativePath": "raz\\c\\pdf\\11_When Is Nighttime.pdf",
+    "tags": [
+      "时间"
+    ]
+  },
+  {
+    "name": "12_Feelings",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\12_Feelings.pdf",
+    "relativePath": "raz\\c\\pdf\\12_Feelings.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "13_Tools",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\13_Tools.pdf",
+    "relativePath": "raz\\c\\pdf\\13_Tools.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "14_Fall",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\14_Fall.pdf",
+    "relativePath": "raz\\c\\pdf\\14_Fall.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "15_The Animals of Canada",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\15_The Animals of Canada.pdf",
+    "relativePath": "raz\\c\\pdf\\15_The Animals of Canada.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "16_How Many Wheels",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\16_How Many Wheels.pdf",
+    "relativePath": "raz\\c\\pdf\\16_How Many Wheels.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "17_We Make a Snowman",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\17_We Make a Snowman.pdf",
+    "relativePath": "raz\\c\\pdf\\17_We Make a Snowman.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "18_Busy At School",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\18_Busy At School.pdf",
+    "relativePath": "raz\\c\\pdf\\18_Busy At School.pdf",
+    "tags": [
+      "学校",
+      "交通工具",
+      "地点"
+    ]
+  },
+  {
+    "name": "19_Rocks",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\19_Rocks.pdf",
+    "relativePath": "raz\\c\\pdf\\19_Rocks.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "20_The Woodsy Band Jam",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\20_The Woodsy Band Jam.pdf",
+    "relativePath": "raz\\c\\pdf\\20_The Woodsy Band Jam.pdf",
+    "tags": [
+      "音乐"
+    ]
+  },
+  {
+    "name": "21_I Looked Everywhere",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\21_I Looked Everywhere.pdf",
+    "relativePath": "raz\\c\\pdf\\21_I Looked Everywhere.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "22_We Count",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\22_We Count.pdf",
+    "relativePath": "raz\\c\\pdf\\22_We Count.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "23_Making Salsa",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\23_Making Salsa.pdf",
+    "relativePath": "raz\\c\\pdf\\23_Making Salsa.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "24_What Do I Wear",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\24_What Do I Wear.pdf",
+    "relativePath": "raz\\c\\pdf\\24_What Do I Wear.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "25_I Can Be",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\25_I Can Be.pdf",
+    "relativePath": "raz\\c\\pdf\\25_I Can Be.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "26_Go Away, Lily",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\26_Go Away, Lily.pdf",
+    "relativePath": "raz\\c\\pdf\\26_Go Away, Lily.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "27_Lucy Did It",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\27_Lucy Did It.pdf",
+    "relativePath": "raz\\c\\pdf\\27_Lucy Did It.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "28_Allie and Ollie",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\28_Allie and Ollie.pdf",
+    "relativePath": "raz\\c\\pdf\\28_Allie and Ollie.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "29_I Won't",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\29_I Won't.pdf",
+    "relativePath": "raz\\c\\pdf\\29_I Won't.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "30_Jack and Lily's Favorite Food",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\30_Jack and Lily's Favorite Food.pdf",
+    "relativePath": "raz\\c\\pdf\\30_Jack and Lily's Favorite Food.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "31_Space",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\31_Space.pdf",
+    "relativePath": "raz\\c\\pdf\\31_Space.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "32_Taking Turns",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\32_Taking Turns.pdf",
+    "relativePath": "raz\\c\\pdf\\32_Taking Turns.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "33_I Wonder",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\33_I Wonder.pdf",
+    "relativePath": "raz\\c\\pdf\\33_I Wonder.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "34_Mash the Potatoes",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\34_Mash the Potatoes.pdf",
+    "relativePath": "raz\\c\\pdf\\34_Mash the Potatoes.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "35_A Place Called Home",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\35_A Place Called Home.pdf",
+    "relativePath": "raz\\c\\pdf\\35_A Place Called Home.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "36_All About Spiders",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\36_All About Spiders.pdf",
+    "relativePath": "raz\\c\\pdf\\36_All About Spiders.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "37_Fall Foods",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\37_Fall Foods.pdf",
+    "relativePath": "raz\\c\\pdf\\37_Fall Foods.pdf",
+    "tags": [
+      "食物",
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "38_Teeth Brushing Fun",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\38_Teeth Brushing Fun.pdf",
+    "relativePath": "raz\\c\\pdf\\38_Teeth Brushing Fun.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "39_What I Want",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\39_What I Want.pdf",
+    "relativePath": "raz\\c\\pdf\\39_What I Want.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "40_How Frogs Grow",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\40_How Frogs Grow.pdf",
+    "relativePath": "raz\\c\\pdf\\40_How Frogs Grow.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "41_Mongo and Cutie",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\41_Mongo and Cutie.pdf",
+    "relativePath": "raz\\c\\pdf\\41_Mongo and Cutie.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "42_Sherman Sure Is Shy",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\42_Sherman Sure Is Shy.pdf",
+    "relativePath": "raz\\c\\pdf\\42_Sherman Sure Is Shy.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "43_Different Kinds of Sharks",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\43_Different Kinds of Sharks.pdf",
+    "relativePath": "raz\\c\\pdf\\43_Different Kinds of Sharks.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "44_What's My Job",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\44_What's My Job.pdf",
+    "relativePath": "raz\\c\\pdf\\44_What's My Job.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "45_The Easter Egg Hunt",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\45_The Easter Egg Hunt.pdf",
+    "relativePath": "raz\\c\\pdf\\45_The Easter Egg Hunt.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "46_Machines at Home",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\46_Machines at Home.pdf",
+    "relativePath": "raz\\c\\pdf\\46_Machines at Home.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "47_All About Penguins",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\47_All About Penguins.pdf",
+    "relativePath": "raz\\c\\pdf\\47_All About Penguins.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "48_All About Earthworms",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\48_All About Earthworms.pdf",
+    "relativePath": "raz\\c\\pdf\\48_All About Earthworms.pdf",
+    "tags": [
+      "身体",
+      "科学",
+      "艺术"
+    ]
+  },
+  {
+    "name": "49_Take a Bite",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\49_Take a Bite.pdf",
+    "relativePath": "raz\\c\\pdf\\49_Take a Bite.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "50_My Clothes Are Too Small",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\50_My Clothes Are Too Small.pdf",
+    "relativePath": "raz\\c\\pdf\\50_My Clothes Are Too Small.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "51_Apple Tree",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\51_Apple Tree.pdf",
+    "relativePath": "raz\\c\\pdf\\51_Apple Tree.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "52_City Shapes",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\52_City Shapes.pdf",
+    "relativePath": "raz\\c\\pdf\\52_City Shapes.pdf",
+    "tags": [
+      "形状"
+    ]
+  },
+  {
+    "name": "53_Snow Falls",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\53_Snow Falls.pdf",
+    "relativePath": "raz\\c\\pdf\\53_Snow Falls.pdf",
+    "tags": [
+      "天气",
+      "季节",
+      "天气"
+    ]
+  },
+  {
+    "name": "54_Building a Road",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\54_Building a Road.pdf",
+    "relativePath": "raz\\c\\pdf\\54_Building a Road.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "55_Ladybugs",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\55_Ladybugs.pdf",
+    "relativePath": "raz\\c\\pdf\\55_Ladybugs.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "56_We Buy",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\56_We Buy.pdf",
+    "relativePath": "raz\\c\\pdf\\56_We Buy.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "57_What Can We Draw",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\57_What Can We Draw.pdf",
+    "relativePath": "raz\\c\\pdf\\57_What Can We Draw.pdf",
+    "tags": [
+      "动作",
+      "艺术"
+    ]
+  },
+  {
+    "name": "58_At the Fair",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\58_At the Fair.pdf",
+    "relativePath": "raz\\c\\pdf\\58_At the Fair.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "59_We Learn to Swim",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\59_We Learn to Swim.pdf",
+    "relativePath": "raz\\c\\pdf\\59_We Learn to Swim.pdf",
+    "tags": [
+      "动作",
+      "身体",
+      "运动"
+    ]
+  },
+  {
+    "name": "60_There Is a Mouse in the House",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\60_There Is a Mouse in the House.pdf",
+    "relativePath": "raz\\c\\pdf\\60_There Is a Mouse in the House.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "61_Who Stole the North Pole",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\61_Who Stole the North Pole.pdf",
+    "relativePath": "raz\\c\\pdf\\61_Who Stole the North Pole.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "62_What Season Is It",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\62_What Season Is It.pdf",
+    "relativePath": "raz\\c\\pdf\\62_What Season Is It.pdf",
+    "tags": [
+      "季节"
+    ]
+  },
+  {
+    "name": "63_What Can I Be",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\63_What Can I Be.pdf",
+    "relativePath": "raz\\c\\pdf\\63_What Can I Be.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "64_More Baby Animals",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\64_More Baby Animals.pdf",
+    "relativePath": "raz\\c\\pdf\\64_More Baby Animals.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "65_Many Kinds of Dinosaurs",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\65_Many Kinds of Dinosaurs.pdf",
+    "relativePath": "raz\\c\\pdf\\65_Many Kinds of Dinosaurs.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "66_Winter Hats",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\66_Winter Hats.pdf",
+    "relativePath": "raz\\c\\pdf\\66_Winter Hats.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "67_Water Fight",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\67_Water Fight.pdf",
+    "relativePath": "raz\\c\\pdf\\67_Water Fight.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "68_Moms Do So Much",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\68_Moms Do So Much.pdf",
+    "relativePath": "raz\\c\\pdf\\68_Moms Do So Much.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "69_What's For Breakfast",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\69_What's For Breakfast.pdf",
+    "relativePath": "raz\\c\\pdf\\69_What's For Breakfast.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "70_Pairs",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\70_Pairs.pdf",
+    "relativePath": "raz\\c\\pdf\\70_Pairs.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "71_New Again",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\71_New Again.pdf",
+    "relativePath": "raz\\c\\pdf\\71_New Again.pdf",
+    "tags": [
+      "历史"
+    ]
+  },
+  {
+    "name": "72_What Animals Eat",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\72_What Animals Eat.pdf",
+    "relativePath": "raz\\c\\pdf\\72_What Animals Eat.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "73_Wash Your Hands",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\73_Wash Your Hands.pdf",
+    "relativePath": "raz\\c\\pdf\\73_Wash Your Hands.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "74_Spring Cleaning",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\74_Spring Cleaning.pdf",
+    "relativePath": "raz\\c\\pdf\\74_Spring Cleaning.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "75_You Like What",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\75_You Like What.pdf",
+    "relativePath": "raz\\c\\pdf\\75_You Like What.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "76_One Stubborn Horse",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\76_One Stubborn Horse.pdf",
+    "relativePath": "raz\\c\\pdf\\76_One Stubborn Horse.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "77_The Moon",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\77_The Moon.pdf",
+    "relativePath": "raz\\c\\pdf\\77_The Moon.pdf",
+    "tags": [
+      "科学"
+    ]
+  },
+  {
+    "name": "78_Then and Now",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\78_Then and Now.pdf",
+    "relativePath": "raz\\c\\pdf\\78_Then and Now.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "79_Selfish Sasha",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\79_Selfish Sasha.pdf",
+    "relativePath": "raz\\c\\pdf\\79_Selfish Sasha.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "80_Fall Fun",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\80_Fall Fun.pdf",
+    "relativePath": "raz\\c\\pdf\\80_Fall Fun.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "81_The Festival of Lights",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\81_The Festival of Lights.pdf",
+    "relativePath": "raz\\c\\pdf\\81_The Festival of Lights.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "82_Road Trip",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\82_Road Trip.pdf",
+    "relativePath": "raz\\c\\pdf\\82_Road Trip.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "83_That's a Fruit",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\83_That's a Fruit.pdf",
+    "relativePath": "raz\\c\\pdf\\83_That's a Fruit.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "84_Spirals, Spirals Everywhere",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\84_Spirals, Spirals Everywhere.pdf",
+    "relativePath": "raz\\c\\pdf\\84_Spirals, Spirals Everywhere.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "85_My Teacher",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\85_My Teacher.pdf",
+    "relativePath": "raz\\c\\pdf\\85_My Teacher.pdf",
+    "tags": [
+      "学校",
+      "职业"
+    ]
+  },
+  {
+    "name": "86_Shadows",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\86_Shadows.pdf",
+    "relativePath": "raz\\c\\pdf\\86_Shadows.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "87_We Make Good Choices",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\87_We Make Good Choices.pdf",
+    "relativePath": "raz\\c\\pdf\\87_We Make Good Choices.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "88_Strange Animals",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\88_Strange Animals.pdf",
+    "relativePath": "raz\\c\\pdf\\88_Strange Animals.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "89_Pick Me!",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\89_Pick Me!.pdf",
+    "relativePath": "raz\\c\\pdf\\89_Pick Me!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "90_Ice",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\90_Ice.pdf",
+    "relativePath": "raz\\c\\pdf\\90_Ice.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "91_Abby and Zots",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\91_Abby and Zots.pdf",
+    "relativePath": "raz\\c\\pdf\\91_Abby and Zots.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "92_Quiet or Loud",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\92_Quiet or Loud.pdf",
+    "relativePath": "raz\\c\\pdf\\92_Quiet or Loud.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "93_I Want to Be a Cat",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\93_I Want to Be a Cat.pdf",
+    "relativePath": "raz\\c\\pdf\\93_I Want to Be a Cat.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "94_The Box",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\94_The Box.pdf",
+    "relativePath": "raz\\c\\pdf\\94_The Box.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "95_Animals That Sting",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\95_Animals That Sting.pdf",
+    "relativePath": "raz\\c\\pdf\\95_Animals That Sting.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "96_Too Hot!",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\96_Too Hot!.pdf",
+    "relativePath": "raz\\c\\pdf\\96_Too Hot!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "97_Airplanes",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\97_Airplanes.pdf",
+    "relativePath": "raz\\c\\pdf\\97_Airplanes.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "98_Build a World",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\98_Build a World.pdf",
+    "relativePath": "raz\\c\\pdf\\98_Build a World.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "99_What Does the Wind Move？",
+    "type": "raz",
+    "level": "C",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\c\\pdf\\99_What Does the Wind Move？.pdf",
+    "relativePath": "raz\\c\\pdf\\99_What Does the Wind Move？.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "01_What to Wear",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\01_What to Wear.pdf",
+    "relativePath": "raz\\d\\pdf\\01_What to Wear.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "02_Do Not Eat That!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\02_Do Not Eat That!.pdf",
+    "relativePath": "raz\\d\\pdf\\02_Do Not Eat That!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "03_The Sky Is Falling",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\03_The Sky Is Falling.pdf",
+    "relativePath": "raz\\d\\pdf\\03_The Sky Is Falling.pdf",
+    "tags": [
+      "自然",
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "04_Community Helpers",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\04_Community Helpers.pdf",
+    "relativePath": "raz\\d\\pdf\\04_Community Helpers.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "05_Where Animals Live",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\05_Where Animals Live.pdf",
+    "relativePath": "raz\\d\\pdf\\05_Where Animals Live.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "06_Getting Around the City",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\06_Getting Around the City.pdf",
+    "relativePath": "raz\\d\\pdf\\06_Getting Around the City.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "07_The Team",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\07_The Team.pdf",
+    "relativePath": "raz\\d\\pdf\\07_The Team.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "08_clouds",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\08_clouds.pdf",
+    "relativePath": "raz\\d\\pdf\\08_clouds.pdf",
+    "tags": [
+      "自然",
+      "天气"
+    ]
+  },
+  {
+    "name": "09_senses",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\09_senses.pdf",
+    "relativePath": "raz\\d\\pdf\\09_senses.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "10_what",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\10_what.pdf",
+    "relativePath": "raz\\d\\pdf\\10_what.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "11_caretakers",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\11_caretakers.pdf",
+    "relativePath": "raz\\d\\pdf\\11_caretakers.pdf",
+    "tags": [
+      "交通工具",
+      "社交"
+    ]
+  },
+  {
+    "name": "12_To the Store",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\12_To the Store.pdf",
+    "relativePath": "raz\\d\\pdf\\12_To the Store.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "13_workers",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\13_workers.pdf",
+    "relativePath": "raz\\d\\pdf\\13_workers.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "14_Where Plants Grow",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\14_Where Plants Grow.pdf",
+    "relativePath": "raz\\d\\pdf\\14_Where Plants Grow.pdf",
+    "tags": [
+      "自然",
+      "科学"
+    ]
+  },
+  {
+    "name": "15_Maria's Halloween",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\15_Maria's Halloween.pdf",
+    "relativePath": "raz\\d\\pdf\\15_Maria's Halloween.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "16_The Mitten",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\16_The Mitten.pdf",
+    "relativePath": "raz\\d\\pdf\\16_The Mitten.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "17_I Need An Eraser",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\17_I Need An Eraser.pdf",
+    "relativePath": "raz\\d\\pdf\\17_I Need An Eraser.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "18_I Count 100 Things",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\18_I Count 100 Things.pdf",
+    "relativePath": "raz\\d\\pdf\\18_I Count 100 Things.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "19_Polly Gets Out",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\19_Polly Gets Out.pdf",
+    "relativePath": "raz\\d\\pdf\\19_Polly Gets Out.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "20_Frog Is Hungry",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\20_Frog Is Hungry.pdf",
+    "relativePath": "raz\\d\\pdf\\20_Frog Is Hungry.pdf",
+    "tags": [
+      "动物",
+      "情绪"
+    ]
+  },
+  {
+    "name": "21_The Busy Pond",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\21_The Busy Pond.pdf",
+    "relativePath": "raz\\d\\pdf\\21_The Busy Pond.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "22_What Do You See",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\22_What Do You See.pdf",
+    "relativePath": "raz\\d\\pdf\\22_What Do You See.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "23_Country Places",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\23_Country Places.pdf",
+    "relativePath": "raz\\d\\pdf\\23_Country Places.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "24_My Neighborhood",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\24_My Neighborhood.pdf",
+    "relativePath": "raz\\d\\pdf\\24_My Neighborhood.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "25_Grow, Vegetables, Grow!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\25_Grow, Vegetables, Grow!.pdf",
+    "relativePath": "raz\\d\\pdf\\25_Grow, Vegetables, Grow!.pdf",
+    "tags": [
+      "食物"
+    ]
+  },
+  {
+    "name": "26_Lily the Cat",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\26_Lily the Cat.pdf",
+    "relativePath": "raz\\d\\pdf\\26_Lily the Cat.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "27_No, Lily, Don't!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\27_No, Lily, Don't!.pdf",
+    "relativePath": "raz\\d\\pdf\\27_No, Lily, Don't!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "28_Whale Watching",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\28_Whale Watching.pdf",
+    "relativePath": "raz\\d\\pdf\\28_Whale Watching.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "29_swamps",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\29_swamps.pdf",
+    "relativePath": "raz\\d\\pdf\\29_swamps.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "30_I Like My Hair",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\30_I Like My Hair.pdf",
+    "relativePath": "raz\\d\\pdf\\30_I Like My Hair.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "31_Welcome Back,Butterflies",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\31_Welcome Back,Butterflies.pdf",
+    "relativePath": "raz\\d\\pdf\\31_Welcome Back,Butterflies.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "32_Little Loon",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\32_Little Loon.pdf",
+    "relativePath": "raz\\d\\pdf\\32_Little Loon.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "33_fog",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\33_fog.pdf",
+    "relativePath": "raz\\d\\pdf\\33_fog.pdf",
+    "tags": [
+      "天气"
+    ]
+  },
+  {
+    "name": "34_Our Good Night Story",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\34_Our Good Night Story.pdf",
+    "relativePath": "raz\\d\\pdf\\34_Our Good Night Story.pdf",
+    "tags": [
+      "时间"
+    ]
+  },
+  {
+    "name": "35_Buddy the Bear",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\35_Buddy the Bear.pdf",
+    "relativePath": "raz\\d\\pdf\\35_Buddy the Bear.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "36_animal tongues",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\36_animal tongues.pdf",
+    "relativePath": "raz\\d\\pdf\\36_animal tongues.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "37_Dollars and Cents",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\37_Dollars and Cents.pdf",
+    "relativePath": "raz\\d\\pdf\\37_Dollars and Cents.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "38_Tadpole Teasing",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\38_Tadpole Teasing.pdf",
+    "relativePath": "raz\\d\\pdf\\38_Tadpole Teasing.pdf",
+    "tags": [
+      "动作",
+      "音乐"
+    ]
+  },
+  {
+    "name": "39_Mud Balls!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\39_Mud Balls!.pdf",
+    "relativePath": "raz\\d\\pdf\\39_Mud Balls!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "40_At the Library",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\40_At the Library.pdf",
+    "relativePath": "raz\\d\\pdf\\40_At the Library.pdf",
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "name": "41_My New School",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\41_My New School.pdf",
+    "relativePath": "raz\\d\\pdf\\41_My New School.pdf",
+    "tags": [
+      "学校",
+      "地点",
+      "历史"
+    ]
+  },
+  {
+    "name": "42_Sky High",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\42_Sky High.pdf",
+    "relativePath": "raz\\d\\pdf\\42_Sky High.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "43_Why Can't I",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\43_Why Can't I.pdf",
+    "relativePath": "raz\\d\\pdf\\43_Why Can't I.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "44_We Give Away",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\44_We Give Away.pdf",
+    "relativePath": "raz\\d\\pdf\\44_We Give Away.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "45_Swamp Music",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\45_Swamp Music.pdf",
+    "relativePath": "raz\\d\\pdf\\45_Swamp Music.pdf",
+    "tags": [
+      "音乐"
+    ]
+  },
+  {
+    "name": "46_Nothing Scares Me!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\46_Nothing Scares Me!.pdf",
+    "relativePath": "raz\\d\\pdf\\46_Nothing Scares Me!.pdf",
+    "tags": [
+      "交通工具",
+      "社交"
+    ]
+  },
+  {
+    "name": "47_Give Them Back!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\47_Give Them Back!.pdf",
+    "relativePath": "raz\\d\\pdf\\47_Give Them Back!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "48_A Day for Dad",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\48_A Day for Dad.pdf",
+    "relativePath": "raz\\d\\pdf\\48_A Day for Dad.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "49_backyard camping",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\49_backyard camping.pdf",
+    "relativePath": "raz\\d\\pdf\\49_backyard camping.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "50_Bats Day and Night",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\50_Bats Day and Night.pdf",
+    "relativePath": "raz\\d\\pdf\\50_Bats Day and Night.pdf",
+    "tags": [
+      "时间"
+    ]
+  },
+  {
+    "name": "51_Silent e",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\51_Silent e.pdf",
+    "relativePath": "raz\\d\\pdf\\51_Silent e.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "52_Katie and Katie",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\52_Katie and Katie.pdf",
+    "relativePath": "raz\\d\\pdf\\52_Katie and Katie.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "53_Bees Feed Me",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\53_Bees Feed Me.pdf",
+    "relativePath": "raz\\d\\pdf\\53_Bees Feed Me.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "54_Under That Rock",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\54_Under That Rock.pdf",
+    "relativePath": "raz\\d\\pdf\\54_Under That Rock.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "55_animal horns",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\55_animal horns.pdf",
+    "relativePath": "raz\\d\\pdf\\55_animal horns.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "56_animal costumes",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\56_animal costumes.pdf",
+    "relativePath": "raz\\d\\pdf\\56_animal costumes.pdf",
+    "tags": [
+      "动物",
+      "科学"
+    ]
+  },
+  {
+    "name": "57_greater than",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\57_greater than.pdf",
+    "relativePath": "raz\\d\\pdf\\57_greater than.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "58_Because You Recycle",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\58_Because You Recycle.pdf",
+    "relativePath": "raz\\d\\pdf\\58_Because You Recycle.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "59_My First Class Play",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\59_My First Class Play.pdf",
+    "relativePath": "raz\\d\\pdf\\59_My First Class Play.pdf",
+    "tags": [
+      "学校",
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "60_All About Foxes",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\60_All About Foxes.pdf",
+    "relativePath": "raz\\d\\pdf\\60_All About Foxes.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "61_Insect Wings",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\61_Insect Wings.pdf",
+    "relativePath": "raz\\d\\pdf\\61_Insect Wings.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "62_hobbies",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\62_hobbies.pdf",
+    "relativePath": "raz\\d\\pdf\\62_hobbies.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "63_Stone Soup",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\63_Stone Soup.pdf",
+    "relativePath": "raz\\d\\pdf\\63_Stone Soup.pdf",
+    "tags": [
+      "数字"
+    ]
+  },
+  {
+    "name": "64_Why Does an Octopus Need Eight Arms",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\64_Why Does an Octopus Need Eight Arms.pdf",
+    "relativePath": "raz\\d\\pdf\\64_Why Does an Octopus Need Eight Arms.pdf",
+    "tags": [
+      "数字",
+      "身体"
+    ]
+  },
+  {
+    "name": "65_Future Flowers",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\65_Future Flowers.pdf",
+    "relativePath": "raz\\d\\pdf\\65_Future Flowers.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "66_Amazing Places to Work",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\66_Amazing Places to Work.pdf",
+    "relativePath": "raz\\d\\pdf\\66_Amazing Places to Work.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "67_Best Friends Q and U",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\67_Best Friends Q and U.pdf",
+    "relativePath": "raz\\d\\pdf\\67_Best Friends Q and U.pdf",
+    "tags": [
+      "社交"
+    ]
+  },
+  {
+    "name": "68_Shave It Off!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\68_Shave It Off!.pdf",
+    "relativePath": "raz\\d\\pdf\\68_Shave It Off!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "69_Less Than",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\69_Less Than.pdf",
+    "relativePath": "raz\\d\\pdf\\69_Less Than.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "70_Tiger Sharks",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\70_Tiger Sharks.pdf",
+    "relativePath": "raz\\d\\pdf\\70_Tiger Sharks.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "71_To the Woods",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\71_To the Woods.pdf",
+    "relativePath": "raz\\d\\pdf\\71_To the Woods.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "72_River Otters",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\72_River Otters.pdf",
+    "relativePath": "raz\\d\\pdf\\72_River Otters.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "73_Bubbles",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\73_Bubbles.pdf",
+    "relativePath": "raz\\d\\pdf\\73_Bubbles.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "74_Imagine the Beach",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\74_Imagine the Beach.pdf",
+    "relativePath": "raz\\d\\pdf\\74_Imagine the Beach.pdf",
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "name": "75_My New City",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\75_My New City.pdf",
+    "relativePath": "raz\\d\\pdf\\75_My New City.pdf",
+    "tags": [
+      "历史"
+    ]
+  },
+  {
+    "name": "76_At a Fall Fair",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\76_At a Fall Fair.pdf",
+    "relativePath": "raz\\d\\pdf\\76_At a Fall Fair.pdf",
+    "tags": [
+      "季节",
+      "季节"
+    ]
+  },
+  {
+    "name": "77_Just a Trim",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\77_Just a Trim.pdf",
+    "relativePath": "raz\\d\\pdf\\77_Just a Trim.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "78_Cranberries",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\78_Cranberries.pdf",
+    "relativePath": "raz\\d\\pdf\\78_Cranberries.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "79_Let's Make a Bird Feeder",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\79_Let's Make a Bird Feeder.pdf",
+    "relativePath": "raz\\d\\pdf\\79_Let's Make a Bird Feeder.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "80_I Hide",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\80_I Hide.pdf",
+    "relativePath": "raz\\d\\pdf\\80_I Hide.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "81_Tootsie Can Talk",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\81_Tootsie Can Talk.pdf",
+    "relativePath": "raz\\d\\pdf\\81_Tootsie Can Talk.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "82_Pillow Fort d",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\82_Pillow Fort Password.pdf",
+    "relativePath": "raz\\d\\pdf\\82_Pillow Fort Password.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "83_Pick a Pie",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\83_Pick a Pie.pdf",
+    "relativePath": "raz\\d\\pdf\\83_Pick a Pie.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "84_Reindeer Are Real",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\84_Reindeer Are Real.pdf",
+    "relativePath": "raz\\d\\pdf\\84_Reindeer Are Real.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "85_Who Runs Faster",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\85_Who Runs Faster.pdf",
+    "relativePath": "raz\\d\\pdf\\85_Who Runs Faster.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "86_I Did Not Give Up!",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\86_I Did Not Give Up!.pdf",
+    "relativePath": "raz\\d\\pdf\\86_I Did Not Give Up!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "87_How Do They Swim",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\87_How Do They Swim.pdf",
+    "relativePath": "raz\\d\\pdf\\87_How Do They Swim.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "88_Who Wants to Play Basketball",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\88_Who Wants to Play Basketball.pdf",
+    "relativePath": "raz\\d\\pdf\\88_Who Wants to Play Basketball.pdf",
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "name": "89_The Wheel",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\89_The Wheel.pdf",
+    "relativePath": "raz\\d\\pdf\\89_The Wheel.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "90_How We Get to School",
+    "type": "raz",
+    "level": "D",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\raz\\d\\pdf\\90_How We Get to School.pdf",
+    "relativePath": "raz\\d\\pdf\\90_How We Get to School.pdf",
+    "tags": [
+      "学校",
+      "地点"
+    ]
+  },
+  {
+    "name": "L1-1 What a Mess",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-1 What a Mess.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-1 What a Mess.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L1-2 Who did that",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-2 Who did that.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-2 Who did that.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L1-3 Goal!",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-3 Goal!.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-3 Goal!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L1-4 The Journey",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-4 The Journey.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-4 The Journey.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L1-5 Making Faces",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-5 Making Faces.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-5 Making Faces.pdf",
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "name": "L1-6 Shopping",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-6 Shopping.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-6 Shopping.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L1-7 Go Away,Cat",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-7 Go Away,Cat.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-7 Go Away,Cat.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "L1-8 Top Dog",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L1绘本\\L1-8 Top Dog.pdf",
+    "relativePath": "牛津树\\L1绘本\\L1-8 Top Dog.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "L2-1 The Toy’s Party",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-1 The Toy’s Party.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-1 The Toy’s Party.pdf",
+    "tags": [
+      "艺术"
+    ]
+  },
+  {
+    "name": "L2-10 Kipper’s Balloon",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-10 Kipper’s Balloon.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-10 Kipper’s Balloon.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-11 Spots",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-11 Spots.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-11 Spots.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-12 Kipper‘s Birthday",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-12 Kipper‘s Birthday.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-12 Kipper‘s Birthday.pdf",
+    "tags": [
+      "节日",
+      "节日"
+    ]
+  },
+  {
+    "name": "L2-13 Kipper’s Laces",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-13 Kipper’s Laces.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-13 Kipper’s Laces.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-14 The Wobbly Tooth",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-14 The Wobbly Tooth.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-14 The Wobbly Tooth.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-15 The Foggy Day",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-15 The Foggy Day.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-15 The Foggy Day.pdf",
+    "tags": [
+      "天气"
+    ]
+  },
+  {
+    "name": "L2-16 Biff‘s Aeroplane",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-16 Biff‘s Aeroplane.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-16 Biff‘s Aeroplane.pdf",
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "name": "L2-17 Floppy the Hero",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-17 Floppy the Hero.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-17 Floppy the Hero.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-18 The Chase",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-18 The Chase.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-18 The Chase.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-19 The Big Egg",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-19 The Big Egg.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-19 The Big Egg.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-2 New Trainers",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-2 New Trainers.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-2 New Trainers.pdf",
+    "tags": [
+      "交通工具",
+      "天气",
+      "历史"
+    ]
+  },
+  {
+    "name": "L2-20 Poor Floppy",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-20 Poor Floppy.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-20 Poor Floppy.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-21 Put it back",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-21 Put it back.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-21 Put it back.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-22 In a bit",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-22 In a bit.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-22 In a bit.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-23 A present for Mum",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-23 A present for Mum.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-23 A present for Mum.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-24 The hole in the sand",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-24 The hole in the sand.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-24 The hole in the sand.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-25 Monkey Tricks",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-25 Monkey Tricks.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-25 Monkey Tricks.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "L2-26 Hey Presto!",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-26 Hey Presto!.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-26 Hey Presto!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-27 It’s the Weather",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-27 It’s the Weather.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-27 It’s the Weather.pdf",
+    "tags": [
+      "天气",
+      "天气"
+    ]
+  },
+  {
+    "name": "L2-28 Naughty Children",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-28 Naughty Children.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-28 Naughty Children.pdf",
+    "tags": [
+      "家庭"
+    ]
+  },
+  {
+    "name": "L2-29 A Sinking Feeling",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-29 A Sinking Feeling.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-29 A Sinking Feeling.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-3 A New Dog",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-3 A New Dog.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-3 A New Dog.pdf",
+    "tags": [
+      "动物",
+      "历史"
+    ]
+  },
+  {
+    "name": "L2-30 Creepy-crawly!",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-30 Creepy-crawly!.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-30 Creepy-crawly!.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-31 What is it",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-31 What is it.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-31 What is it.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-32 The Lost Puppy",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-32 The Lost Puppy.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-32 The Lost Puppy.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "L2-33 New Trees",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-33 New Trees.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-33 New Trees.pdf",
+    "tags": [
+      "自然",
+      "历史"
+    ]
+  },
+  {
+    "name": "L2-34 Up and Down",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-34 Up and Down.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-34 Up and Down.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-35 The Little Dragon",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-35 The Little Dragon.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-35 The Little Dragon.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-36 The Band",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-36 The Band.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-36 The Band.pdf",
+    "tags": [
+      "音乐"
+    ]
+  },
+  {
+    "name": "L2-4 What a Bad Dog!",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-4 What a Bad Dog!.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-4 What a Bad Dog!.pdf",
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "name": "L2-5 The Go-Kart",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-5 The Go-Kart.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-5 The Go-Kart.pdf",
+    "tags": [
+      "艺术"
+    ]
+  },
+  {
+    "name": "L2-6 The Dream",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-6 The Dream.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-6 The Dream.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-7 Floppy‘s Bath",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-7 Floppy‘s Bath.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-7 Floppy‘s Bath.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-8 The Baby-sitter",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-8 The Baby-sitter.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-8 The Baby-sitter.pdf",
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "name": "L2-9 The Water Fight",
+    "type": "raz",
+    "level": "",
+    "path": "D:\\code\\opencode\\raz\\myBooks\\牛津树\\L2绘本\\L2-9 The Water Fight.pdf",
+    "relativePath": "牛津树\\L2绘本\\L2-9 The Water Fight.pdf",
+    "tags": [
+      "食物"
+    ]
+  }
+]

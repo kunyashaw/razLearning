@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>儿童英语学习</title>
+    
+    <!-- 针对旧版浏览器（极空间等NAS设备）的Polyfill -->
+    <script>
+      // 检测浏览器是否支持必要的特性
+      (function() {
+        var supported = true;
+        var messages = [];
+        
+        // 检测ES6支持
+        try {
+          eval('const x = 1; let y = 2; () => {}; class Z {}');
+        } catch(e) {
+          supported = false;
+          messages.push('您的浏览器版本较旧，可能无法正常使用本应用。');
+        }
+        
+        // 检测Promise
+        if (typeof Promise === 'undefined') {
+          supported = false;
+          messages.push('缺少Promise支持');
+        }
+        
+        // 检测Fetch
+        if (typeof fetch === 'undefined') {
+          supported = false;
+          messages.push('缺少Fetch支持');
+        }
+        
+        if (!supported) {
+          document.addEventListener('DOMContentLoaded', function() {
+            var app = document.getElementById('app');
+            if (app) {
+              app.innerHTML = '<div style="padding: 20px; text-align: center; color: #666;">' +
+                '<h2>浏览器兼容性提示</h2>' +
+                '<p>' + messages.join('<br>') + '</p>' +
+                '<p style="margin-top: 20px;">建议：使用Chrome、Firefox、Safari或Edge浏览器的最新版本访问</p>' +
+                '</div>';
+            }
+          });
+        }
+      })();
+    </script>
+    
+    <!-- 内联Polyfill（极空间等无网络环境也可用） -->
+    <script>
+      // Promise Polyfill (简化版)
+      if (typeof Promise === 'undefined') {
+        window.Promise = function(executor) {
+          var self = this;
+          self.state = 'pending';
+          self.value = undefined;
+          self.handlers = [];
+          
+          function resolve(result) {
+            if (self.state === 'pending') {
+              self.state = 'fulfilled';
+              self.value = result;
+              self.handlers.forEach(handle);
+              self.handlers = null;
+            }
+          }
+          
+          function reject(error) {
+            if (self.state === 'pending') {
+              self.state = 'rejected';
+              self.value = error;
+              self.handlers.forEach(handle);
+              self.handlers = null;
+            }
+          }
+          
+          function handle(handler) {
+            if (self.state === 'pending') {
+              self.handlers.push(handler);
+            } else {
+              if (self.state === 'fulfilled' && typeof handler.onFulfilled === 'function') {
+                handler.onFulfilled(self.value);
+              }
+              if (self.state === 'rejected' && typeof handler.onRejected === 'function') {
+                handler.onRejected(self.value);
+              }
+            }
+          }
+          
+          this.then = function(onFulfilled, onRejected) {
+            return new Promise(function(resolve, reject) {
+              handle({
+                onFulfilled: function(result) {
+                  try {
+                    var returnValue = onFulfilled ? onFulfilled(result) : result;
+                    resolve(returnValue);
+                  } catch (ex) {
+                    reject(ex);
+                  }
+                },
+                onRejected: function(error) {
+                  try {
+                    var returnValue = onRejected ? onRejected(error) : error;
+                    reject(returnValue);
+                  } catch (ex) {
+                    reject(ex);
+                  }
+                }
+              });
+            });
+          };
+          
+          executor(resolve, reject);
+        };
+        
+        Promise.all = function(promises) {
+          return new Promise(function(resolve, reject) {
+            var results = [];
+            var remaining = promises.length;
+            
+            if (remaining === 0) {
+              resolve(results);
+              return;
+            }
+            
+            promises.forEach(function(promise, index) {
+              Promise.resolve(promise).then(function(value) {
+                results[index] = value;
+                remaining--;
+                if (remaining === 0) {
+                  resolve(results);
+                }
+              }, reject);
+            });
+          });
+        };
+        
+        Promise.resolve = function(value) {
+          return new Promise(function(resolve) {
+            resolve(value);
+          });
+        };
+        
+        Promise.reject = function(reason) {
+          return new Promise(function(resolve, reject) {
+            reject(reason);
+          });
+        };
+      }
+      
+      // Fetch Polyfill (简化版)
+      if (typeof fetch === 'undefined') {
+        window.fetch = function(url, options) {
+          options = options || {};
+          return new Promise(function(resolve, reject) {
+            var request = new XMLHttpRequest();
+            request.open(options.method || 'GET', url, true);
+            
+            request.onload = function() {
+              resolve({
+                ok: request.status >= 200 && request.status < 300,
+                status: request.status,
+                statusText: request.statusText,
+                text: function() { return Promise.resolve(request.responseText); },
+                json: function() { return Promise.resolve(JSON.parse(request.responseText)); }
+              });
+            };
+            
+            request.onerror = function() {
+              reject(new Error('Network request failed'));
+            };
+            
+            request.send(options.body || null);
+          });
+        };
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "L1-01",
+    "name": "What a Mess",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 1,
+    "pdf": {
+      "filename": "01_What a Mess.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\01_What a Mess.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/01_What a Mess.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "01_What a Mess!-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\01_What a Mess!-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/01_What a Mess!-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "01_What a Mess!.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\01_What a Mess!.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/01_What a Mess!.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "01_What a Mess!-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\01_What a Mess!-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/01_What a Mess!-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "01_What a Mess!.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\01_What a Mess!.mp4",
+          "relativePath": "myBooks/oxford/L1/video/01_What a Mess!.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "情绪"
+    ]
+  },
+  {
+    "id": "L1-02",
+    "name": "Who did that",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 2,
+    "pdf": {
+      "filename": "02_Who did that.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\02_Who did that.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/02_Who did that.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "02_Who Did That-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\02_Who Did That-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/02_Who Did That-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "02_Who Did That.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\02_Who Did That.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/02_Who Did That.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "02_Who Did That-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\02_Who Did That-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/02_Who Did That-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "02_Who Did That.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\02_Who Did That.mp4",
+          "relativePath": "myBooks/oxford/L1/video/02_Who Did That.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L1-03",
+    "name": "Goal!",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 3,
+    "pdf": {
+      "filename": "03_Goal!.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\03_Goal!.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/03_Goal!.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "03_Goal!-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\03_Goal!-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/03_Goal!-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "03_Goal!.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\03_Goal!.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/03_Goal!.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "03_Goal!-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\03_Goal!-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/03_Goal!-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "03_Goal!.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\03_Goal!.mp4",
+          "relativePath": "myBooks/oxford/L1/video/03_Goal!.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "运动"
+    ]
+  },
+  {
+    "id": "L1-04",
+    "name": "The Journey",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 4,
+    "pdf": {
+      "filename": "04_The Journey.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\04_The Journey.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/04_The Journey.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "04_The Journey-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\04_The Journey-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/04_The Journey-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "04_The Journey.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\04_The Journey.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/04_The Journey.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "04_The Journey-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\04_The Journey-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/04_The Journey-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "04_The Journey.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\04_The Journey.mp4",
+          "relativePath": "myBooks/oxford/L1/video/04_The Journey.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "地点"
+    ]
+  },
+  {
+    "id": "L1-05",
+    "name": "Making Faces",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 5,
+    "pdf": {
+      "filename": "05_Making Faces.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\05_Making Faces.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/05_Making Faces.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "05_Making Faces-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\05_Making Faces-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/05_Making Faces-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "05_Making Faces.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\05_Making Faces.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/05_Making Faces.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "05_Making Faces-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\05_Making Faces-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/05_Making Faces-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "05_Making Faces.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\05_Making Faces.mp4",
+          "relativePath": "myBooks/oxford/L1/video/05_Making Faces.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "id": "L1-06",
+    "name": "Shopping",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 6,
+    "pdf": {
+      "filename": "06_Shopping.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\06_Shopping.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/06_Shopping.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "06_Shopping-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\06_Shopping-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/06_Shopping-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "06_Shopping.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\06_Shopping.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/06_Shopping.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "06_Shopping-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\06_Shopping-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/06_Shopping-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "06_Shopping.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\06_Shopping.mp4",
+          "relativePath": "myBooks/oxford/L1/video/06_Shopping.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动作",
+      "地点"
+    ]
+  },
+  {
+    "id": "L1-07",
+    "name": "Go Away,Cat",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 7,
+    "pdf": {
+      "filename": "07_Go Away,Cat.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\07_Go Away,Cat.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/07_Go Away,Cat.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "07_Go Away, Cat-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\07_Go Away, Cat-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/07_Go Away, Cat-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "07_Go Away, Cat.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\07_Go Away, Cat.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/07_Go Away, Cat.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "07_Go Away, Cat-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\07_Go Away, Cat-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/07_Go Away, Cat-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "07_Go Away, Cat.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\07_Go Away, Cat.mp4",
+          "relativePath": "myBooks/oxford/L1/video/07_Go Away, Cat.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L1-08",
+    "name": "Top Dog",
+    "type": "oxford",
+    "level": "L1",
+    "serialNumber": 8,
+    "pdf": {
+      "filename": "08_Top Dog.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\pdf\\08_Top Dog.pdf",
+      "relativePath": "myBooks/oxford/L1/pdf/08_Top Dog.pdf"
+    },
+    "audios": {
+      "bilingual": [
+        {
+          "filename": "08_Top Dog-双语讲解.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\08_Top Dog-双语讲解.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/08_Top Dog-双语讲解.mp3"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "08_Top Dog-mp4.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\audio\\08_Top Dog-mp4.mp3",
+          "relativePath": "myBooks/oxford/L1/audio/08_Top Dog-mp4.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "08_Top Dog-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\08_Top Dog-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L1/video/08_Top Dog-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "08_Top Dog-mp4.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L1\\video\\08_Top Dog-mp4.mp4",
+          "relativePath": "myBooks/oxford/L1/video/08_Top Dog-mp4.mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-01",
+    "name": "The Toy’s Party",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 1,
+    "pdf": {
+      "filename": "01_The Toy’s Party.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\01_The Toy’s Party.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/01_The Toy’s Party.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "01_The Toy‘s Party (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\01_The Toy‘s Party (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/01_The Toy‘s Party (1) .mp3"
+        },
+        {
+          "filename": "01_The Toy’s Party (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\01_The Toy’s Party (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/01_The Toy’s Party (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "01_The Toy's Party (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\01_The Toy's Party (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/01_The Toy's Party (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "01_The Toy's Party (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\01_The Toy's Party (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/01_The Toy's Party (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "01_The Toy's Party (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\01_The Toy's Party (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/01_The Toy's Party (1).mp4"
+        },
+        {
+          "filename": "01_The Toy's Party (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\01_The Toy's Party (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/01_The Toy's Party (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "家庭",
+      "节日",
+      "艺术"
+    ]
+  },
+  {
+    "id": "L2-02",
+    "name": "New Trainers",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 2,
+    "pdf": {
+      "filename": "02_New Trainers.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\02_New Trainers.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/02_New Trainers.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "02_New Trainers (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\02_New Trainers (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/02_New Trainers (1) .mp3"
+        },
+        {
+          "filename": "02_New Trainers (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\02_New Trainers (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/02_New Trainers (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "02_New Trainers (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\02_New Trainers (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/02_New Trainers (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "02_New Trainers (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\02_New Trainers (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/02_New Trainers (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "02_New Trainers (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\02_New Trainers (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/02_New Trainers (1).mp4"
+        },
+        {
+          "filename": "02_New Trainers (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\02_New Trainers (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/02_New Trainers (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "天气"
+    ]
+  },
+  {
+    "id": "L2-03",
+    "name": "A New Dog",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 3,
+    "pdf": {
+      "filename": "03_A New Dog.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\03_A New Dog.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/03_A New Dog.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "03_A New Dog (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\03_A New Dog (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/03_A New Dog (1) .mp3"
+        },
+        {
+          "filename": "03_A New Dog (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\03_A New Dog (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/03_A New Dog (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "03_A New Dog (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\03_A New Dog (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/03_A New Dog (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "03_A New Dog (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\03_A New Dog (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/03_A New Dog (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "03_A New Dog (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\03_A New Dog (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/03_A New Dog (1).mp4"
+        },
+        {
+          "filename": "03_A New Dog (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\03_A New Dog (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/03_A New Dog (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-04",
+    "name": "What a Bad Dog!",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 4,
+    "pdf": {
+      "filename": "04_What a Bad Dog!.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\04_What a Bad Dog!.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/04_What a Bad Dog!.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "04_What a Bad Dog! (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\04_What a Bad Dog! (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/04_What a Bad Dog! (1) .mp3"
+        },
+        {
+          "filename": "04_What a Bad Dog! (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\04_What a Bad Dog! (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/04_What a Bad Dog! (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "04_What a Bad Dog! (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\04_What a Bad Dog! (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/04_What a Bad Dog! (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "04_What a Bad Dog! (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\04_What a Bad Dog! (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/04_What a Bad Dog! (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "04_What a Bad Dog! (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\04_What a Bad Dog! (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/04_What a Bad Dog! (1).mp4"
+        },
+        {
+          "filename": "04_What a Bad Dog! (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\04_What a Bad Dog! (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/04_What a Bad Dog! (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-05",
+    "name": "The Go-Kart",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 5,
+    "pdf": {
+      "filename": "05_The Go-Kart.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\05_The Go-Kart.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/05_The Go-Kart.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "05_The Go-Kart (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\05_The Go-Kart (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/05_The Go-Kart (1) .mp3"
+        },
+        {
+          "filename": "05_The Go-Kart (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\05_The Go-Kart (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/05_The Go-Kart (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "05_The Go-Kart (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\05_The Go-Kart (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/05_The Go-Kart (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "05_The Go-Kart (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\05_The Go-Kart (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/05_The Go-Kart (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "05_The Go-Kart (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\05_The Go-Kart (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/05_The Go-Kart (1).mp4"
+        },
+        {
+          "filename": "05_The Go-Kart (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\05_The Go-Kart (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/05_The Go-Kart (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "交通工具"
+    ]
+  },
+  {
+    "id": "L2-06",
+    "name": "The Dream",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 6,
+    "pdf": {
+      "filename": "06_The Dream.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\06_The Dream.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/06_The Dream.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "06_The Dreams (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\06_The Dreams (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/06_The Dreams (1) .mp3"
+        },
+        {
+          "filename": "06_The Dreams (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\06_The Dreams (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/06_The Dreams (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "06_The Dreams (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\06_The Dreams (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/06_The Dreams (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "06_The Dreams (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\06_The Dreams (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/06_The Dreams (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "06_The Dreams (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\06_The Dreams (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/06_The Dreams (1).mp4"
+        },
+        {
+          "filename": "06_The Dreams (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\06_The Dreams (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/06_The Dreams (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-07",
+    "name": "Floppy‘s Bath",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 7,
+    "pdf": {
+      "filename": "07_Floppy‘s Bath.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\07_Floppy‘s Bath.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/07_Floppy‘s Bath.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "07_Floppy‘s Bath (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\07_Floppy‘s Bath (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/07_Floppy‘s Bath (1) .mp3"
+        },
+        {
+          "filename": "07_Floppy’s Bath (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\07_Floppy’s Bath (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/07_Floppy’s Bath (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "07_Floppy's Bath (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\07_Floppy's Bath (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/07_Floppy's Bath (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "07_Floppy's Bath (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\07_Floppy's Bath (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/07_Floppy's Bath (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "07_Floppy's Bath (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\07_Floppy's Bath (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/07_Floppy's Bath (1).mp4"
+        },
+        {
+          "filename": "07_Floppy's Bath (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\07_Floppy's Bath (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/07_Floppy's Bath (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物",
+      "动作"
+    ]
+  },
+  {
+    "id": "L2-08",
+    "name": "The Baby-sitter",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 8,
+    "pdf": {
+      "filename": "08_The Baby-sitter.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\08_The Baby-sitter.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/08_The Baby-sitter.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "08_The Baby-sitter (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\08_The Baby-sitter (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/08_The Baby-sitter (1) .mp3"
+        },
+        {
+          "filename": "08_The Baby-sitter (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\08_The Baby-sitter (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/08_The Baby-sitter (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "08_The Baby-sitter (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\08_The Baby-sitter (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/08_The Baby-sitter (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "08_The Baby-sitter (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\08_The Baby-sitter (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/08_The Baby-sitter (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "08_The Baby-sitter (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\08_The Baby-sitter (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/08_The Baby-sitter (1).mp4"
+        },
+        {
+          "filename": "08_The Baby-sitter (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\08_The Baby-sitter (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/08_The Baby-sitter (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-09",
+    "name": "The Water Fight",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 9,
+    "pdf": {
+      "filename": "09_The Water Fight.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\09_The Water Fight.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/09_The Water Fight.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "09_The Water Fight (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\09_The Water Fight (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/09_The Water Fight (1) .mp3"
+        },
+        {
+          "filename": "09_The Water Fight (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\09_The Water Fight (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/09_The Water Fight (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "09_The Water Fight (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\09_The Water Fight (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/09_The Water Fight (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "09_The Water Fight (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\09_The Water Fight (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/09_The Water Fight (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "09_The Water Fight (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\09_The Water Fight (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/09_The Water Fight (1).mp4"
+        },
+        {
+          "filename": "09_The Water Fight (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\09_The Water Fight (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/09_The Water Fight (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动作",
+      "运动"
+    ]
+  },
+  {
+    "id": "L2-10",
+    "name": "Kipper’s Balloon",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 10,
+    "pdf": {
+      "filename": "10_Kipper’s Balloon.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\10_Kipper’s Balloon.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/10_Kipper’s Balloon.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "10_Kipper‘s Balloon (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\10_Kipper‘s Balloon (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/10_Kipper‘s Balloon (1) .mp3"
+        },
+        {
+          "filename": "10_Kipper’s Balloon (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\10_Kipper’s Balloon (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/10_Kipper’s Balloon (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "10_Kipper's Balloon (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\10_Kipper's Balloon (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/10_Kipper's Balloon (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "10_Kipper's Balloon (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\10_Kipper's Balloon (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/10_Kipper's Balloon (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "10_Kipper's Balloon (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\10_Kipper's Balloon (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/10_Kipper's Balloon (1).mp4"
+        },
+        {
+          "filename": "10_Kipper's Balloon (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\10_Kipper's Balloon (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/10_Kipper's Balloon (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "家庭",
+      "动作"
+    ]
+  },
+  {
+    "id": "L2-11",
+    "name": "Spots",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 11,
+    "pdf": {
+      "filename": "11_Spots.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\11_Spots.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/11_Spots.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "11_Spots (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\11_Spots (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/11_Spots (1) .mp3"
+        },
+        {
+          "filename": "11_Spots (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\11_Spots (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/11_Spots (2) .mp3"
+        },
+        {
+          "filename": "11_Spots (2).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\11_Spots (2).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/11_Spots (2).mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "11_Spots (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\11_Spots (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/11_Spots (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "11_Spots (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\11_Spots (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/11_Spots (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "11_Spots (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\11_Spots (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/11_Spots (1).mp4"
+        },
+        {
+          "filename": "11_Spots (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\11_Spots (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/11_Spots (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "形状"
+    ]
+  },
+  {
+    "id": "L2-12",
+    "name": "Kipper‘s Birthday",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 12,
+    "pdf": {
+      "filename": "12_Kipper‘s Birthday.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\12_Kipper‘s Birthday.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/12_Kipper‘s Birthday.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "12_Kipper‘s Birthday (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\12_Kipper‘s Birthday (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/12_Kipper‘s Birthday (1) .mp3"
+        },
+        {
+          "filename": "12_Kipper’s Birthday (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\12_Kipper’s Birthday (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/12_Kipper’s Birthday (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "12_Kipper's Birthday (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\12_Kipper's Birthday (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/12_Kipper's Birthday (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "12_Kipper's Birthday (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\12_Kipper's Birthday (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/12_Kipper's Birthday (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "12_Kipper's Birthday (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\12_Kipper's Birthday (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/12_Kipper's Birthday (1).mp4"
+        },
+        {
+          "filename": "12_Kipper's Birthday (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\12_Kipper's Birthday (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/12_Kipper's Birthday (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "家庭",
+      "节日"
+    ]
+  },
+  {
+    "id": "L2-13",
+    "name": "Kipper’s Laces",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 13,
+    "pdf": {
+      "filename": "13_Kipper’s Laces.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\13_Kipper’s Laces.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/13_Kipper’s Laces.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "13_Kipper‘s Laces (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\13_Kipper‘s Laces (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/13_Kipper‘s Laces (1) .mp3"
+        },
+        {
+          "filename": "13_Kipper’s Laces (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\13_Kipper’s Laces (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/13_Kipper’s Laces (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "13_Kipper's Laces (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\13_Kipper's Laces (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/13_Kipper's Laces (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "13_Kipper's Laces (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\13_Kipper's Laces (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/13_Kipper's Laces (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "13_Kipper's Laces (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\13_Kipper's Laces (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/13_Kipper's Laces (1).mp4"
+        },
+        {
+          "filename": "13_Kipper's Laces (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\13_Kipper's Laces (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/13_Kipper's Laces (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "家庭",
+      "身体"
+    ]
+  },
+  {
+    "id": "L2-14",
+    "name": "The Wobbly Tooth",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 14,
+    "pdf": {
+      "filename": "14_The Wobbly Tooth.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\14_The Wobbly Tooth.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/14_The Wobbly Tooth.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "14_The Wobbly Tooth (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\14_The Wobbly Tooth (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/14_The Wobbly Tooth (1) .mp3"
+        },
+        {
+          "filename": "14_The Wobbly Tooth (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\14_The Wobbly Tooth (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/14_The Wobbly Tooth (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "14_The Wobbly Tooth (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\14_The Wobbly Tooth (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/14_The Wobbly Tooth (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "14_The Wobbly Tooth (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\14_The Wobbly Tooth (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/14_The Wobbly Tooth (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "14_The Wobbly Tooth (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\14_The Wobbly Tooth (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/14_The Wobbly Tooth (1).mp4"
+        },
+        {
+          "filename": "14_The Wobbly Tooth (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\14_The Wobbly Tooth (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/14_The Wobbly Tooth (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "身体"
+    ]
+  },
+  {
+    "id": "L2-15",
+    "name": "The Foggy Day",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 15,
+    "pdf": {
+      "filename": "15_The Foggy Day.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\15_The Foggy Day.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/15_The Foggy Day.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "15_The Foggy Day (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\15_The Foggy Day (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/15_The Foggy Day (1) .mp3"
+        },
+        {
+          "filename": "15_The Foggy Day (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\15_The Foggy Day (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/15_The Foggy Day (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "15_The Foggy Day (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\15_The Foggy Day (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/15_The Foggy Day (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "15_The Foggy Day (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\15_The Foggy Day (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/15_The Foggy Day (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "15_The Foggy Day (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\15_The Foggy Day (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/15_The Foggy Day (1).mp4"
+        },
+        {
+          "filename": "15_The Foggy Day (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\15_The Foggy Day (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/15_The Foggy Day (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "自然",
+      "天气"
+    ]
+  },
+  {
+    "id": "L2-16",
+    "name": "Biff‘s Aeroplane",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 16,
+    "pdf": {
+      "filename": "16_Biff‘s Aeroplane.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\16_Biff‘s Aeroplane.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/16_Biff‘s Aeroplane.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "16_Biff‘s Aeroplane (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\16_Biff‘s Aeroplane (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/16_Biff‘s Aeroplane (1) .mp3"
+        },
+        {
+          "filename": "16_Biff’s Aeroplane (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\16_Biff’s Aeroplane (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/16_Biff’s Aeroplane (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "16_Biff's Aeroplane (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\16_Biff's Aeroplane (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/16_Biff's Aeroplane (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "16_Biff's Aeroplane (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\16_Biff's Aeroplane (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/16_Biff's Aeroplane (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "16_Biff's Aeroplane (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\16_Biff's Aeroplane (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/16_Biff's Aeroplane (1).mp4"
+        },
+        {
+          "filename": "16_Biff's Aeroplane (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\16_Biff's Aeroplane (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/16_Biff's Aeroplane (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "家庭",
+      "交通工具"
+    ]
+  },
+  {
+    "id": "L2-17",
+    "name": "Floppy the Hero",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 17,
+    "pdf": {
+      "filename": "17_Floppy the Hero.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\17_Floppy the Hero.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/17_Floppy the Hero.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "17_Floppy the Hero (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\17_Floppy the Hero (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/17_Floppy the Hero (1) .mp3"
+        },
+        {
+          "filename": "17_Floppy the Hero (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\17_Floppy the Hero (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/17_Floppy the Hero (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "17_Floppy the Hero (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\17_Floppy the Hero (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/17_Floppy the Hero (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "17_Floppy the Hero (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\17_Floppy the Hero (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/17_Floppy the Hero (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "17_Floppy the Hero (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\17_Floppy the Hero (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/17_Floppy the Hero (1).mp4"
+        },
+        {
+          "filename": "17_Floppy the Hero (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\17_Floppy the Hero (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/17_Floppy the Hero (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-18",
+    "name": "The Chase",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 18,
+    "pdf": {
+      "filename": "18_The Chase.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\18_The Chase.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/18_The Chase.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "18_The Chase (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\18_The Chase (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/18_The Chase (1) .mp3"
+        },
+        {
+          "filename": "18_The Chase (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\18_The Chase (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/18_The Chase (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "18_The Chase (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\18_The Chase (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/18_The Chase (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "18_The Chase (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\18_The Chase (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/18_The Chase (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "18_The Chase (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\18_The Chase (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/18_The Chase (1).mp4"
+        },
+        {
+          "filename": "18_The Chase (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\18_The Chase (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/18_The Chase (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动作"
+    ]
+  },
+  {
+    "id": "L2-19",
+    "name": "The Big Egg",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 19,
+    "pdf": {
+      "filename": "19_The Big Egg.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\19_The Big Egg.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/19_The Big Egg.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "19_The Big Egg (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\19_The Big Egg (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/19_The Big Egg (1) .mp3"
+        },
+        {
+          "filename": "19_The Big Egg (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\19_The Big Egg (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/19_The Big Egg (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "19_The Big Egg (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\19_The Big Egg (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/19_The Big Egg (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "19_The Big Egg (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\19_The Big Egg (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/19_The Big Egg (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "19_The Big Egg (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\19_The Big Egg (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/19_The Big Egg (1).mp4"
+        },
+        {
+          "filename": "19_The Big Egg (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\19_The Big Egg (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/19_The Big Egg (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-20",
+    "name": "Poor Floppy",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 20,
+    "pdf": {
+      "filename": "20_Poor Floppy.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\20_Poor Floppy.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/20_Poor Floppy.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "20_Poor Floppy (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\20_Poor Floppy (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/20_Poor Floppy (1) .mp3"
+        },
+        {
+          "filename": "20_Poor Floppy (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\20_Poor Floppy (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/20_Poor Floppy (2) .mp3"
+        },
+        {
+          "filename": "20_Poor Floppy (2).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\20_Poor Floppy (2).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/20_Poor Floppy (2).mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "20_Poor Floppy (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\20_Poor Floppy (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/20_Poor Floppy (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "20_Poor Floppy (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\20_Poor Floppy (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/20_Poor Floppy (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "20_Poor Floppy (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\20_Poor Floppy (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/20_Poor Floppy (1).mp4"
+        },
+        {
+          "filename": "20_Poor Floppy (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\20_Poor Floppy (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/20_Poor Floppy (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物",
+      "情绪"
+    ]
+  },
+  {
+    "id": "L2-21",
+    "name": "Put it back",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 21,
+    "pdf": {
+      "filename": "21_Put it back.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\21_Put it back.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/21_Put it back.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "21_Put it Back (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\21_Put it Back (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/21_Put it Back (1) .mp3"
+        },
+        {
+          "filename": "21_Put it Back (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\21_Put it Back (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/21_Put it Back (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "21_Put it Back (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\21_Put it Back (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/21_Put it Back (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "21_Put it Back (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\21_Put it Back (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/21_Put it Back (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "21_Put it Back (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\21_Put it Back (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/21_Put it Back (1).mp4"
+        },
+        {
+          "filename": "21_Put it Back (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\21_Put it Back (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/21_Put it Back (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-22",
+    "name": "In a bit",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 22,
+    "pdf": {
+      "filename": "22_In a bit.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\22_In a bit.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/22_In a bit.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "22_In a Bit (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\22_In a Bit (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/22_In a Bit (1) .mp3"
+        },
+        {
+          "filename": "22_In a Bit (1).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\22_In a Bit (1).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/22_In a Bit (1).mp3"
+        },
+        {
+          "filename": "22_In a Bit (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\22_In a Bit (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/22_In a Bit (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "22_In a Bit (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\22_In a Bit (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/22_In a Bit (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "22_In a Bit (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\22_In a Bit (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/22_In a Bit (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "22_In a Bit (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\22_In a Bit (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/22_In a Bit (1).mp4"
+        },
+        {
+          "filename": "22_In a Bit (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\22_In a Bit (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/22_In a Bit (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-23",
+    "name": "A present for Mum",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 23,
+    "pdf": {
+      "filename": "23_A present for Mum.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\23_A present for Mum.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/23_A present for Mum.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "23_A Present For Mum (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\23_A Present For Mum (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/23_A Present For Mum (1) .mp3"
+        },
+        {
+          "filename": "23_A Present For Mum (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\23_A Present For Mum (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/23_A Present For Mum (2) .mp3"
+        },
+        {
+          "filename": "23_A Present For Mum (2）.mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\23_A Present For Mum (2）.mp3",
+          "relativePath": "myBooks/oxford/L2/audio/23_A Present For Mum (2）.mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "23_A Present For Mum (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\23_A Present For Mum (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/23_A Present For Mum (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "23_A Present For Mum (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\23_A Present For Mum (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/23_A Present For Mum (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "23_A Present For Mum (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\23_A Present For Mum (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/23_A Present For Mum (1).mp4"
+        },
+        {
+          "filename": "23_A Present For Mum (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\23_A Present For Mum (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/23_A Present For Mum (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "家庭",
+      "社交"
+    ]
+  },
+  {
+    "id": "L2-24",
+    "name": "The hole in the sand",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 24,
+    "pdf": {
+      "filename": "24_The hole in the sand.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\24_The hole in the sand.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/24_The hole in the sand.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "24_The Hole in the Sand (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\24_The Hole in the Sand (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/24_The Hole in the Sand (1) .mp3"
+        },
+        {
+          "filename": "24_The Hole in the Sand (1).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\24_The Hole in the Sand (1).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/24_The Hole in the Sand (1).mp3"
+        },
+        {
+          "filename": "24_The Hole in the Sand (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\24_The Hole in the Sand (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/24_The Hole in the Sand (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "24_The Hole in the Sand (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\24_The Hole in the Sand (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/24_The Hole in the Sand (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "24_The Hole in the Sand (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\24_The Hole in the Sand (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/24_The Hole in the Sand (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "24_The Hole in the Sand (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\24_The Hole in the Sand (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/24_The Hole in the Sand (1).mp4"
+        },
+        {
+          "filename": "24_The Hole in the Sand (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\24_The Hole in the Sand (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/24_The Hole in the Sand (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "id": "L2-25",
+    "name": "Monkey Tricks",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 25,
+    "pdf": {
+      "filename": "25_Monkey Tricks.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\25_Monkey Tricks.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/25_Monkey Tricks.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "25_Monkey Tricks (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\25_Monkey Tricks (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/25_Monkey Tricks (1) .mp3"
+        },
+        {
+          "filename": "25_Monkey Tricks (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\25_Monkey Tricks (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/25_Monkey Tricks (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "25_Monkey Tricks (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\25_Monkey Tricks (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/25_Monkey Tricks (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "25_Monkey Tricks (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\25_Monkey Tricks (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/25_Monkey Tricks (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "25_Monkey Tricks (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\25_Monkey Tricks (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/25_Monkey Tricks (1).mp4"
+        },
+        {
+          "filename": "25_Monkey Tricks (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\25_Monkey Tricks (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/25_Monkey Tricks (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-26",
+    "name": "Hey Presto!",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 26,
+    "pdf": {
+      "filename": "26_Hey Presto!.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\26_Hey Presto!.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/26_Hey Presto!.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "26_Hey Presto! (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\26_Hey Presto! (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/26_Hey Presto! (1) .mp3"
+        },
+        {
+          "filename": "26_Hey Presto! (1).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\26_Hey Presto! (1).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/26_Hey Presto! (1).mp3"
+        },
+        {
+          "filename": "26_Hey Presto! (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\26_Hey Presto! (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/26_Hey Presto! (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "26_Hey Presto! (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\26_Hey Presto! (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/26_Hey Presto! (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "26_Hey Presto! (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\26_Hey Presto! (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/26_Hey Presto! (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "26_Hey Presto! (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\26_Hey Presto! (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/26_Hey Presto! (1).mp4"
+        },
+        {
+          "filename": "26_Hey Presto! (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\26_Hey Presto! (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/26_Hey Presto! (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-27",
+    "name": "It’s the Weather",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 27,
+    "pdf": {
+      "filename": "27_It’s the Weather.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\27_It’s the Weather.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/27_It’s the Weather.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "27_It‘s the Weather (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\27_It‘s the Weather (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/27_It‘s the Weather (1) .mp3"
+        },
+        {
+          "filename": "27_It’s the Weather (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\27_It’s the Weather (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/27_It’s the Weather (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "27_It's the Weather (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\27_It's the Weather (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/27_It's the Weather (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "27_It's the Weather (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\27_It's the Weather (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/27_It's the Weather (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "27_It's the Weather (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\27_It's the Weather (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/27_It's the Weather (1).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "id": "L2-28",
+    "name": "Naughty Children",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 28,
+    "pdf": {
+      "filename": "28_Naughty Children.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\28_Naughty Children.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/28_Naughty Children.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "25_Naughty Children (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\25_Naughty Children (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/25_Naughty Children (1) .mp3"
+        },
+        {
+          "filename": "25_Naughty Children (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\25_Naughty Children (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/25_Naughty Children (2) .mp3"
+        },
+        {
+          "filename": "28_Naughty Children (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\28_Naughty Children (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/28_Naughty Children (1) .mp3"
+        },
+        {
+          "filename": "28_Naughty Children (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\28_Naughty Children (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/28_Naughty Children (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "28_Naughty Children (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\28_Naughty Children (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/28_Naughty Children (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "28_Naughty Children (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\28_Naughty Children (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/28_Naughty Children (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "28_Naughty Children (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\28_Naughty Children (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/28_Naughty Children (1).mp4"
+        },
+        {
+          "filename": "28_Naughty Children (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\28_Naughty Children (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/28_Naughty Children (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "情绪"
+    ]
+  },
+  {
+    "id": "L2-29",
+    "name": "A Sinking Feeling",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 29,
+    "pdf": {
+      "filename": "29_A Sinking Feeling.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\29_A Sinking Feeling.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/29_A Sinking Feeling.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "29_A Sinking Feeling (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\29_A Sinking Feeling (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/29_A Sinking Feeling (1) .mp3"
+        },
+        {
+          "filename": "29_A Sinking Feeling (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\29_A Sinking Feeling (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/29_A Sinking Feeling (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "29_A Sinking Feeling (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\29_A Sinking Feeling (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/29_A Sinking Feeling (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "29_A Sinking Feeling (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\29_A Sinking Feeling (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/29_A Sinking Feeling (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "29_A Sinking Feeling (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\29_A Sinking Feeling (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/29_A Sinking Feeling (1).mp4"
+        },
+        {
+          "filename": "29_A Sinking Feeling (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\29_A Sinking Feeling (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/29_A Sinking Feeling (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-30",
+    "name": "Creepy-crawly!",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 30,
+    "pdf": {
+      "filename": "30_Creepy-crawly!.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\30_Creepy-crawly!.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/30_Creepy-crawly!.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "30_Creepy-crawly! (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\30_Creepy-crawly! (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/30_Creepy-crawly! (1) .mp3"
+        },
+        {
+          "filename": "30_Creepy-crawly! (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\30_Creepy-crawly! (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/30_Creepy-crawly! (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "30_Creepy-crawly! (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\30_Creepy-crawly! (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/30_Creepy-crawly! (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "30_Creepy-crawly! (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\30_Creepy-crawly! (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/30_Creepy-crawly! (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "30_Creepy-crawly! (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\30_Creepy-crawly! (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/30_Creepy-crawly! (1).mp4"
+        },
+        {
+          "filename": "30_Creepy-crawly! (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\30_Creepy-crawly! (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/30_Creepy-crawly! (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "科学"
+    ]
+  },
+  {
+    "id": "L2-31",
+    "name": "What is it",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 31,
+    "pdf": {
+      "filename": "31_What is it.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\31_What is it.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/31_What is it.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "31_What Is It(1).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\31_What Is It(1).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/31_What Is It(1).mp3"
+        },
+        {
+          "filename": "31_What Is It(2).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\31_What Is It(2).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/31_What Is It(2).mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "31_What Is It (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\31_What Is It (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/31_What Is It (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "31_What Is It (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\31_What Is It (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/31_What Is It (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "31_What Is It (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\31_What Is It (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/31_What Is It (1).mp4"
+        },
+        {
+          "filename": "31_What Is It (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\31_What Is It (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/31_What Is It (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-32",
+    "name": "The Lost Puppy",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 32,
+    "pdf": {
+      "filename": "32_The Lost Puppy.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\32_The Lost Puppy.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/32_The Lost Puppy.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "32_The Lost Puppy (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\32_The Lost Puppy (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/32_The Lost Puppy (1) .mp3"
+        },
+        {
+          "filename": "32_The Lost Puppy (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\32_The Lost Puppy (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/32_The Lost Puppy (2) .mp3"
+        },
+        {
+          "filename": "32_The Lost Puppy（1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\32_The Lost Puppy（1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/32_The Lost Puppy（1) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "32_The Lost Puppy (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\32_The Lost Puppy (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/32_The Lost Puppy (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "32_The Lost Puppy (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\32_The Lost Puppy (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/32_The Lost Puppy (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "32_The Lost Puppy (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\32_The Lost Puppy (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/32_The Lost Puppy (1).mp4"
+        },
+        {
+          "filename": "32_The Lost Puppy (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\32_The Lost Puppy (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/32_The Lost Puppy (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-33",
+    "name": "New Trees",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 33,
+    "pdf": {
+      "filename": "33_New Trees.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\33_New Trees.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/33_New Trees.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "33_New Trees (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\33_New Trees (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/33_New Trees (1) .mp3"
+        },
+        {
+          "filename": "33_New Trees (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\33_New Trees (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/33_New Trees (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "33_New Trees (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\33_New Trees (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/33_New Trees (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "33_New Trees (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\33_New Trees (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/33_New Trees (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "33_New Trees (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\33_New Trees (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/33_New Trees (1).mp4"
+        },
+        {
+          "filename": "33_New Trees (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\33_New Trees (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/33_New Trees (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "自然"
+    ]
+  },
+  {
+    "id": "L2-34",
+    "name": "Up and Down",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 34,
+    "pdf": {
+      "filename": "34_Up and Down.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\34_Up and Down.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/34_Up and Down.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "34_Up and Down (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\34_Up and Down (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/34_Up and Down (1) .mp3"
+        },
+        {
+          "filename": "34_Up and Down (1).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\34_Up and Down (1).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/34_Up and Down (1).mp3"
+        },
+        {
+          "filename": "34_Up and Down (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\34_Up and Down (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/34_Up and Down (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "34_Up and Down (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\34_Up and Down (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/34_Up and Down (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "34_Up and Down (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\34_Up and Down (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/34_Up and Down (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "34_Up and Down (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\34_Up and Down (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/34_Up and Down (1).mp4"
+        },
+        {
+          "filename": "34_Up and Down (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\34_Up and Down (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/34_Up and Down (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "其他"
+    ]
+  },
+  {
+    "id": "L2-35",
+    "name": "The Little Dragon",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 35,
+    "pdf": {
+      "filename": "35_The Little Dragon.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\35_The Little Dragon.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/35_The Little Dragon.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "35_The Little Dragon (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\35_The Little Dragon (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/35_The Little Dragon (1) .mp3"
+        },
+        {
+          "filename": "35_The Little Dragon (1).mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\35_The Little Dragon (1).mp3",
+          "relativePath": "myBooks/oxford/L2/audio/35_The Little Dragon (1).mp3"
+        },
+        {
+          "filename": "35_The Little Dragon (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\35_The Little Dragon (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/35_The Little Dragon (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "35_The Little Dragon (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\35_The Little Dragon (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/35_The Little Dragon (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "35_The Little Dragon (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\35_The Little Dragon (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/35_The Little Dragon (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "35_The Little Dragon (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\35_The Little Dragon (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/35_The Little Dragon (1).mp4"
+        },
+        {
+          "filename": "35_The Little Dragon (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\35_The Little Dragon (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/35_The Little Dragon (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "动物"
+    ]
+  },
+  {
+    "id": "L2-36",
+    "name": "The Band",
+    "type": "oxford",
+    "level": "L2",
+    "serialNumber": 36,
+    "pdf": {
+      "filename": "36_The Band.pdf",
+      "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\pdf\\36_The Band.pdf",
+      "relativePath": "myBooks/oxford/L2/pdf/36_The Band.pdf"
+    },
+    "audios": {
+      "bilingual": [],
+      "earTraining": [
+        {
+          "filename": "36_The Band (1) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\36_The Band (1) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/36_The Band (1) .mp3"
+        },
+        {
+          "filename": "36_The Band (2) .mp3",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\audio\\36_The Band (2) .mp3",
+          "relativePath": "myBooks/oxford/L2/audio/36_The Band (2) .mp3"
+        }
+      ]
+    },
+    "videos": {
+      "bilingual": [
+        {
+          "filename": "36_The Band (1)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\36_The Band (1)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/36_The Band (1)-双语讲解.mp4"
+        },
+        {
+          "filename": "36_The Band (2)-双语讲解.mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\36_The Band (2)-双语讲解.mp4",
+          "relativePath": "myBooks/oxford/L2/video/36_The Band (2)-双语讲解.mp4"
+        }
+      ],
+      "earTraining": [
+        {
+          "filename": "36_The Band (1).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\36_The Band (1).mp4",
+          "relativePath": "myBooks/oxford/L2/video/36_The Band (1).mp4"
+        },
+        {
+          "filename": "36_The Band (2).mp4",
+          "path": "D:\\code\\opencode\\raz\\myBooks\\oxford\\L2\\video\\36_The Band (2).mp4",
+          "relativePath": "myBooks/oxford/L2/video/36_The Band (2).mp4"
+        }
+      ]
+    },
+    "resources": [
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "音乐"
+    ]
+  }
+]
