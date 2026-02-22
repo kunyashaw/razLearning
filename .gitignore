@@ -48,20 +48,23 @@ myBooks/**
 !myBooks/raz/aa/audio/01_*.mp3
 !myBooks/raz/aa/audio/02_*.mp3
 !myBooks/raz/aa/audio/03_*.mp3
+!myBooks/raz/aa/video/01_*.mp4
+!myBooks/raz/aa/video/02_*.mp4
+!myBooks/raz/aa/video/03_*.mp4
 
-!myBooks/raz/a/pdf/01_*.pdf
-!myBooks/raz/a/pdf/02_*.pdf
-!myBooks/raz/a/pdf/03_*.pdf
 !myBooks/raz/a/audio/01_*.mp3
 !myBooks/raz/a/audio/02_*.mp3
 !myBooks/raz/a/audio/03_*.mp3
+!myBooks/raz/a/video/01_*.mp4
+!myBooks/raz/a/video/02_*.mp4
+!myBooks/raz/a/video/03_*.mp4
 
-!myBooks/raz/b/pdf/01_*.pdf
-!myBooks/raz/b/pdf/02_*.pdf
-!myBooks/raz/b/pdf/03_*.pdf
 !myBooks/raz/b/audio/01_*.mp3
 !myBooks/raz/b/audio/02_*.mp3
 !myBooks/raz/b/audio/03_*.mp3
+!myBooks/raz/b/video/01_*.mp4
+!myBooks/raz/b/video/02_*.mp4
+!myBooks/raz/b/video/03_*.mp4
 
 !myBooks/raz/c/pdf/01_*.pdf
 !myBooks/raz/c/pdf/02_*.pdf
