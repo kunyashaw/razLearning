@@ -1,11 +1,13 @@
 # RAZ Learning
 
 <p align="center">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/QqcFXBmtoak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=QqcFXBmtoak" target="_blank">
+    <img src="https://img.youtube.com/vi/QqcFXBmtoak/maxresdefault.jpg" alt="点击播放演示视频" width="80%">
+  </a>
 </p>
 
 <p align="center">
-  👆 点击上方视频播放演示
+  👆 点击上方图片打开 YouTube 视频
 </p>
 
 <p align="center">
