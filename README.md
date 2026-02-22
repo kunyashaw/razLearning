@@ -1,5 +1,17 @@
 # RAZ Learning
 
+<p align="center">
+  <img src="images/screenshot1.png" width="30%" />
+  <img src="images/screenshot2.png" width="30%" />
+  <img src="images/screenshot3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="images/screenshot4.png" width="30%" />
+  <img src="images/screenshot5.png" width="30%" />
+  <img src="images/screenshot6.png" width="30%" />
+</p>
+
 > 📹 演示视频: 查看 `razLearningDemo.mp4` 文件
 
 一个基于 Vue 3 + Vite 的分级阅读学习 web 应用，支持 RAZ 和牛津树两大绘本系列。
