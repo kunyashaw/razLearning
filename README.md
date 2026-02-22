@@ -1,10 +1,7 @@
 # RAZ Learning
 
 <p align="center">
-  <video width="80%" controls>
-    <source src="razLearningDemo.mp4" type="video/mp4">
-    您的浏览器不支持视频播放，请点击 <a href="razLearningDemo.mp4">这里</a> 下载观看
-  </video>
+  <iframe width="360" height="640" src="https://www.youtube.com/embed/QqcFXBmtoak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
