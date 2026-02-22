@@ -36,6 +36,50 @@ Thumbs.db
 .DS_Store
 
 # Project specific
-myBooks/
+# Keep myBooks but ignore most files, allow specific samples
+
+# Ignore everything in myBooks by default
+myBooks/**
+
+# But allow specific sample files (first 3 books each level)
+!myBooks/raz/aa/pdf/01_*.pdf
+!myBooks/raz/aa/pdf/02_*.pdf
+!myBooks/raz/aa/pdf/03_*.pdf
+!myBooks/raz/aa/audio/01_*.mp3
+!myBooks/raz/aa/audio/02_*.mp3
+!myBooks/raz/aa/audio/03_*.mp3
+
+!myBooks/raz/a/pdf/01_*.pdf
+!myBooks/raz/a/pdf/02_*.pdf
+!myBooks/raz/a/pdf/03_*.pdf
+!myBooks/raz/a/audio/01_*.mp3
+!myBooks/raz/a/audio/02_*.mp3
+!myBooks/raz/a/audio/03_*.mp3
+
+!myBooks/raz/b/pdf/01_*.pdf
+!myBooks/raz/b/pdf/02_*.pdf
+!myBooks/raz/b/pdf/03_*.pdf
+!myBooks/raz/b/audio/01_*.mp3
+!myBooks/raz/b/audio/02_*.mp3
+!myBooks/raz/b/audio/03_*.mp3
+
+!myBooks/raz/c/pdf/01_*.pdf
+!myBooks/raz/c/pdf/02_*.pdf
+!myBooks/raz/c/pdf/03_*.pdf
+
+!myBooks/raz/d/pdf/01_*.pdf
+!myBooks/raz/d/pdf/02_*.pdf
+!myBooks/raz/d/pdf/03_*.pdf
+
+!myBooks/oxford/L1/pdf/01_*.pdf
+!myBooks/oxford/L1/pdf/02_*.pdf
+!myBooks/oxford/L1/pdf/03_*.pdf
+
+!myBooks/oxford/L2/pdf/01_*.pdf
+!myBooks/oxford/L2/pdf/02_*.pdf
+!myBooks/oxford/L2/pdf/03_*.pdf
+
+# Demo video
+!razLearningDemo.mp4
 
 

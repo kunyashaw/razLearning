@@ -1,5 +1,7 @@
 # RAZ Learning
 
+> 📹 演示视频: 查看 `razLearningDemo.mp4` 文件
+
 一个基于 Vue 3 + Vite 的分级阅读学习 web 应用，支持 RAZ 和牛津树两大绘本系列。
 
 ## 功能特性
